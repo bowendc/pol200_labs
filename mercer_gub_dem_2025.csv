@@ -1,0 +1,687 @@
+district,town,registered.voters,votes.cast,turnout,fulop,spiller,gottheimer,sherrill,sweeny,baraka
+"East Windsor 1
+",East Windsor,654,239,36.54,27,35,18,122,8,29
+"
+East Windsor 2
+",East Windsor,740,177,23.92,35,24,11,60,4,43
+"
+East Windsor 3
+",East Windsor,285,136,47.72,16,13,8,84,3,12
+"
+East Windsor 4
+",East Windsor,744,315,42.34,66,32,30,151,3,29
+"
+East Windsor 5
+",East Windsor,664,228,34.34,42,35,24,86,7,32
+"
+East Windsor 6
+",East Windsor,520,164,31.54,37,19,21,60,10,17
+"
+East Windsor 7
+",East Windsor,456,182,39.91,41,13,11,92,8,17
+"
+East Windsor 8
+",East Windsor,622,226,36.33,28,37,9,103,8,40
+"
+East Windsor 9
+",East Windsor,351,77,21.94,14,7,7,28,1,19
+"
+East Windsor 10
+",East Windsor,320,89,27.81,16,10,9,27,2,25
+"
+East Windsor 11
+",East Windsor,617,197,31.93,40,38,12,70,4,32
+"
+East Windsor 12
+",East Windsor,405,119,29.38,8,25,13,44,2,26
+"
+East Windsor 13
+",East Windsor,422,121,28.67,20,27,7,43,5,19
+"
+East Windsor 14
+",East Windsor,369,97,26.29,13,16,7,33,1,27
+"
+East Windsor 15
+",East Windsor,387,116,29.97,14,21,13,49,2,16
+"
+East Windsor 17
+",East Windsor,375,128,34.13,27,18,12,41,5,25
+"
+Ewing Twp 1
+",Ewing Twp,343,159,46.36,18,15,18,71,7,30
+"
+Ewing Twp 2
+",Ewing Twp,376,122,32.45,11,19,1,45,5,41
+"
+Ewing Twp 3
+",Ewing Twp,427,140,32.79,9,34,14,23,11,49
+"
+Ewing Twp 4
+",Ewing Twp,600,198,33,20,46,20,50,10,52
+"
+Ewing Twp 5
+",Ewing Twp,564,191,33.87,13,48,7,28,8,86
+"
+Ewing Twp 6
+",Ewing Twp,516,164,31.78,18,27,8,48,3,58
+"
+Ewing Twp 7
+",Ewing Twp,821,274,33.37,31,59,12,62,12,96
+"
+Ewing Twp 8
+",Ewing Twp,391,168,42.97,35,20,11,71,8,23
+"
+Ewing Twp 9
+",Ewing Twp,538,159,29.55,17,38,10,32,2,60
+"
+Ewing Twp 10
+",Ewing Twp,553,151,27.31,22,28,11,27,5,58
+"
+Ewing Twp 11
+",Ewing Twp,519,203,39.11,23,32,11,68,9,60
+"
+Ewing Twp 12
+",Ewing Twp,781,270,34.57,23,62,10,64,10,98
+"
+Ewing Twp 13
+",Ewing Twp,581,193,33.22,23,32,10,53,9,65
+"
+Ewing Twp 14
+",Ewing Twp,258,109,42.25,17,14,4,45,4,24
+"
+Ewing Twp 15
+",Ewing Twp,607,226,37.23,15,45,10,46,8,102
+"
+Ewing Twp 16
+",Ewing Twp,269,108,40.15,19,5,2,59,6,17
+"
+Ewing Twp 17
+",Ewing Twp,490,138,28.16,23,26,7,34,9,35
+"
+Ewing Twp 18
+",Ewing Twp,296,96,32.43,17,13,6,33,11,16
+"
+Ewing Twp 19
+",Ewing Twp,750,262,34.93,53,29,14,107,6,52
+"
+Ewing Twp 20
+",Ewing Twp,236,85,36.02,13,14,3,34,1,20
+"
+Ewing Twp 21
+",Ewing Twp,579,222,38.34,35,26,21,79,5,56
+"
+Ewing Twp 22
+",Ewing Twp,266,88,33.08,11,13,5,39,2,17
+"
+Ewing Twp 23
+",Ewing Twp,360,109,30.28,16,16,7,26,5,38
+"Ewing Twp 24
+",Ewing Twp,956,317,33.16,47,38,16,101,11,104
+"
+Ewing Twp 25
+",Ewing Twp,582,178,30.58,15,47,11,39,6,59
+"
+Ewing Twp 26
+",Ewing Twp,531,178,33.52,24,29,12,59,5,48
+"
+Ewing Twp 27
+",Ewing Twp,680,212,31.18,19,32,9,53,15,82
+"
+Hamilton Twp 1
+",Hamilton Twp,354,105,29.66,11,14,9,46,8,16
+"
+Hamilton Twp 2
+",Hamilton Twp,251,87,34.66,7,11,7,40,8,14
+"
+Hamilton Twp 3
+",Hamilton Twp,242,85,35.12,7,8,6,44,6,12
+"
+Hamilton Twp 4
+",Hamilton Twp,501,126,25.15,16,19,10,20,9,52
+"
+Hamilton Twp 5
+",Hamilton Twp,625,115,18.4,9,20,10,24,5,44
+"
+Hamilton Twp 6
+",Hamilton Twp,479,112,23.38,14,20,4,50,5,19
+"
+Hamilton Twp 7
+",Hamilton Twp,1045,186,17.8,24,44,7,35,11,62
+"
+Hamilton Twp 8
+",Hamilton Twp,240,58,24.17,8,4,5,31,2,8
+"
+Hamilton Twp 9
+",Hamilton Twp,303,116,38.28,19,11,7,46,9,23
+"
+Hamilton Twp 10
+",Hamilton Twp,313,149,47.6,21,12,20,73,13,8
+"
+Hamilton Twp 11
+",Hamilton Twp,418,113,27.03,8,27,8,28,7,34
+"
+Hamilton Twp 12
+",Hamilton Twp,605,146,24.13,8,27,12,41,9,48
+"
+Hamilton Twp 13
+",Hamilton Twp,659,162,24.58,13,43,14,33,7,52
+"
+Hamilton Twp 14
+",Hamilton Twp,493,145,29.41,14,25,14,35,15,39
+"
+Hamilton Twp 15
+",Hamilton Twp,741,212,28.61,36,33,13,72,5,51
+"
+Hamilton Twp 16
+",Hamilton Twp,478,121,25.31,15,14,13,33,5,41
+"
+Hamilton Twp 17
+",Hamilton Twp,481,134,27.86,19,23,14,38,11,27
+"
+Hamilton Twp 18
+",Hamilton Twp,408,116,28.43,7,12,3,30,14,50
+"
+Hamilton Twp 19
+",Hamilton Twp,214,75,35.05,8,8,6,39,4,7
+"
+Hamilton Twp 20
+",Hamilton Twp,267,103,38.58,11,14,6,53,7,11
+"
+Hamilton Twp 21
+",Hamilton Twp,211,68,32.23,9,18,4,30,4,3
+"
+Hamilton Twp 22
+",Hamilton Twp,215,77,35.81,20,11,3,33,2,8
+"
+Hamilton Twp 23
+",Hamilton Twp,720,167,23.19,12,32,12,30,6,71
+"
+Hamilton Twp 24
+",Hamilton Twp,266,94,35.34,7,18,8,36,10,14
+"
+Hamilton Twp 25
+",Hamilton Twp,530,146,27.55,13,22,8,54,9,40
+"
+Hamilton Twp 26
+",Hamilton Twp,314,110,35.03,6,20,12,39,9,23
+"
+Hamilton Twp 27
+",Hamilton Twp,427,141,33.02,21,20,11,55,10,23
+"
+Hamilton Twp 28
+",Hamilton Twp,283,114,40.28,14,15,7,60,7,11
+"
+Hamilton Twp 29
+",Hamilton Twp,311,111,35.69,14,22,11,36,8,17
+"
+Hamilton Twp 30
+",Hamilton Twp,221,81,36.65,9,15,6,41,4,6
+"
+Hamilton Twp 31
+",Hamilton Twp,550,145,26.36,17,24,4,57,9,34
+"
+Hamilton Twp 32
+",Hamilton Twp,264,113,42.8,19,17,5,48,4,20
+"
+Hamilton Twp 33
+",Hamilton Twp,319,93,29.15,16,7,3,38,4,24
+"
+Hamilton Twp 34
+",Hamilton Twp,299,112,37.46,19,15,9,40,9,19
+"
+Hamilton Twp 35
+",Hamilton Twp,372,122,32.8,26,20,8,46,8,14
+"
+Hamilton Twp 36
+",Hamilton Twp,251,108,43.03,20,12,10,55,4,7
+"Hamilton Twp 37
+",Hamilton Twp,291,97,33.33,16,14,7,33,8,19
+"
+Hamilton Twp 38
+",Hamilton Twp,349,90,25.79,13,17,10,32,4,12
+"
+Hamilton Twp 39
+",Hamilton Twp,331,67,20.24,14,11,6,13,2,21
+"
+Hamilton Twp 40
+",Hamilton Twp,246,78,31.71,11,8,6,45,1,5
+"
+Hamilton Twp 41
+",Hamilton Twp,530,161,30.38,24,16,13,55,15,34
+"
+Hamilton Twp 42
+",Hamilton Twp,239,86,35.98,15,22,5,24,4,16
+"
+Hamilton Twp 43
+",Hamilton Twp,284,107,37.68,27,24,3,41,2,8
+"
+Hamilton Twp 44
+",Hamilton Twp,283,111,39.22,14,17,9,44,7,20
+"
+Hamilton Twp 45
+",Hamilton Twp,270,108,40,22,19,6,36,12,11
+"
+Hamilton Twp 46
+",Hamilton Twp,215,69,32.09,7,4,3,43,4,8
+"
+Hamilton Twp 47
+",Hamilton Twp,503,220,43.74,27,27,24,96,23,21
+"
+Hamilton Twp 48
+",Hamilton Twp,274,138,50.36,19,14,15,74,5,9
+"
+Hamilton Twp 49
+",Hamilton Twp,308,115,37.34,13,13,10,49,17,11
+"
+Hamilton Twp 50
+",Hamilton Twp,338,117,34.62,20,20,2,51,11,12
+"
+Hamilton Twp 51
+",Hamilton Twp,279,107,38.35,12,16,8,44,5,22
+"
+Hamilton Twp 52
+",Hamilton Twp,648,136,20.99,21,16,7,51,9,31
+"
+Hamilton Twp 53
+",Hamilton Twp,302,99,32.78,18,9,10,42,7,13
+"
+Hamilton Twp 54
+",Hamilton Twp,466,134,28.76,21,32,8,37,8,28
+"
+Hamilton Twp 55
+",Hamilton Twp,265,111,41.89,19,16,5,55,7,8
+"
+Hamilton Twp 56
+",Hamilton Twp,373,148,39.68,18,14,9,77,10,19
+"
+Hamilton Twp 57
+",Hamilton Twp,287,87,30.31,10,10,5,31,6,24
+"
+Hamilton Twp 58
+",Hamilton Twp,217,81,37.33,13,14,5,33,5,10
+"
+Hamilton Twp 59
+",Hamilton Twp,429,171,39.86,28,20,12,84,12,14
+"
+Hamilton Twp 60
+",Hamilton Twp,383,135,35.25,21,20,7,60,16,9
+"
+Hamilton Twp 61
+",Hamilton Twp,436,206,47.25,23,20,19,103,22,17
+"
+Hamilton Twp 62
+",Hamilton Twp,227,92,40.53,13,12,2,44,5,15
+"
+Hamilton Twp 63
+",Hamilton Twp,295,90,30.51,14,13,7,21,9,24
+"
+Hamilton Twp 64
+",Hamilton Twp,366,104,28.42,14,11,6,46,13,12
+"
+Hamilton Twp 65
+",Hamilton Twp,299,99,33.11,20,9,6,38,6,18
+"
+Hightstown Boro 1
+",Hightstown Boro,469,146,31.13,24,10,6,69,3,34
+"
+Hightstown Boro 2
+",Hightstown Boro,356,129,36.24,25,13,5,53,12,21
+"
+Hightstown Boro 3
+",Hightstown Boro,341,114,33.43,21,14,6,44,3,25
+"
+Hightstown Boro 4
+",Hightstown Boro,429,153,35.66,19,7,3,99,5,20
+"Hopewell Boro 1
+",Hopewll Boro,482,233,48.34,98,15,4,79,2,34
+"
+Hopewell Boro 2
+",Hopewll Boro,569,255,44.82,81,17,3,100,5,49
+"
+Hopewell Twp 1
+",Hopewell Twp,493,172,34.89,28,20,11,68,1,44
+"
+Hopewell Twp 2
+",Hopewell Twp,521,210,40.31,40,20,13,119,2,16
+"
+Hopewell Twp 3
+",Hopewell Twp,289,100,34.6,17,9,3,52,5,14
+"
+Hopewell Twp 4
+",Hopewell Twp,441,171,38.78,38,11,11,88,4,18
+"
+Hopewell Twp 5
+",Hopewell Twp,699,263,37.63,58,22,12,140,7,22
+"
+Hopewell Twp 6
+",Hopewell Twp,527,218,41.37,57,11,8,90,14,36
+"
+Hopewell Twp 7
+",Hopewell Twp,445,156,35.06,38,15,10,72,6,15
+"
+Hopewell Twp 8
+",Hopewell Twp,637,239,37.52,75,7,22,111,9,15
+"
+Hopewell Twp 9
+",Hopewell Twp,248,92,37.1,21,5,5,42,3,16
+"
+Hopewell Twp 10
+",Hopewell Twp,507,192,37.87,26,24,17,88,12,22
+"
+Hopewell Twp 11
+",Hopewell Twp,434,185,42.63,25,19,22,90,2,26
+"
+Hopewell Twp 12
+",Hopewell Twp,405,189,46.67,31,17,16,95,3,27
+"
+Hopewell Twp 13
+",Hopewell Twp,240,87,36.25,8,9,11,41,2,16
+"
+Hopewell Twp 14
+",Hopewell Twp,498,193,38.76,33,14,7,104,9,25
+"
+Lawrence Twp 1
+",Lawrence Twp,592,273,46.11,82,16,13,126,4,31
+"
+Lawrence Twp 2
+",Lawrence Twp,414,173,41.79,23,22,6,88,4,28
+"
+Lawrence Twp 3
+",Lawrence Twp,641,230,35.88,25,44,5,50,6,97
+"
+Lawrence Twp 4
+",Lawrence Twp,672,240,35.71,49,10,9,116,16,38
+"
+Lawrence Twp 5
+",Lawrence Twp,392,103,26.28,19,23,7,21,8,24
+"
+Lawrence Twp 7
+",Lawrence Twp,592,239,40.37,54,11,17,120,11,25
+"
+Lawrence Twp 8
+",Lawrence Twp,388,161,41.49,29,13,9,62,10,37
+"
+Lawrence Twp 9
+",Lawrence Twp,517,134,25.92,16,17,6,55,6,31
+"
+Lawrence Twp 11
+",Lawrence Twp,401,161,40.15,24,14,11,77,7,28
+"
+Lawrence Twp 12
+",Lawrence Twp,887,345,38.9,57,59,23,127,11,67
+"
+Lawrence Twp 13
+",Lawrence Twp,493,224,45.44,37,19,21,117,10,20
+"Lawrence Twp 14
+",Lawrence Twp,344,154,44.77,23,20,6,81,5,18
+"
+Lawrence Twp 15
+",Lawrence Twp,656,263,40.09,54,23,10,122,17,37
+"
+Lawrence Twp 16
+",Lawrence Twp,1329,330,24.83,49,44,16,96,13,112
+"
+Lawrence Twp 17
+",Lawrence Twp,714,276,38.66,41,44,14,96,8,72
+"
+Lawrence Twp 18
+",Lawrence Twp,581,211,36.32,25,16,15,92,16,46
+"
+Lawrence Twp 19
+",Lawrence Twp,942,296,31.42,52,32,25,112,8,65
+"
+Lawrence Twp 20
+",Lawrence Twp,490,189,38.57,38,20,16,82,1,32
+"
+Pennington Boro 1
+",Pennington Boro,481,188,39.09,36,13,12,112,4,11
+"
+Pennington Boro 2
+",Pennington Boro,438,197,44.98,55,10,6,102,6,15
+"
+Pennington Boro 3
+",Pennington Boro,441,157,35.6,40,12,4,70,7,23
+"
+Princeton 1
+",Princeton,769,225,29.26,49,9,19,125,3,20
+"
+Princeton 2
+",Princeton,459,186,40.52,53,5,17,101,3,7
+"
+Princeton 4
+",Princeton,451,147,32.59,36,6,14,75,7,8
+"
+Princeton 6
+",Princeton,476,160,33.61,53,4,18,62,1,22
+"
+Princeton 8
+",Princeton,523,212,40.54,66,4,7,88,4,43
+"
+Princeton 9
+",Princeton,875,273,31.2,62,25,10,97,1,78
+"
+Princeton 10
+",Princeton,529,156,29.49,48,7,7,71,6,16
+"
+Princeton 11
+",Princeton,1127,403,35.76,113,18,26,177,3,64
+"
+Princeton 12
+",Princeton,515,189,36.7,54,8,9,84,1,32
+"
+Princeton 13
+",Princeton,787,363,46.12,118,13,17,157,5,52
+"
+Princeton 14
+",Princeton,612,212,34.64,57,21,7,90,6,30
+"
+Princeton 15
+",Princeton,892,344,38.57,86,8,11,194,2,41
+"
+Princeton 16
+",Princeton,376,192,51.06,53,7,14,84,1,33
+"
+Princeton 17
+",Princeton,392,142,36.22,46,3,11,60,2,20
+"
+Princeton 18
+",Princeton,765,330,43.14,122,16,19,131,11,31
+"
+Princeton 19
+",Princeton,513,190,37.04,37,13,15,87,3,34
+"
+Princeton 20
+",Princeton,601,209,34.78,64,15,12,95,5,18
+"
+Robbinsville Twp 1
+",Robbinsville,417,135,32.37,26,12,13,57,9,16
+"
+Robbinsville Twp 2
+",Robbinsville,319,117,36.68,10,7,10,58,11,21
+"
+Robbinsville Twp 3
+",Robbinsville,388,125,32.22,30,14,6,52,1,21
+"
+Robbinsville Twp 4
+",Robbinsville,462,123,26.62,21,9,14,49,7,22
+"
+Robbinsville Twp 5
+",Robbinsville,281,76,27.05,17,9,8,23,5,14
+"
+Robbinsville Twp 6
+",Robbinsville,413,129,31.23,25,17,10,58,7,12
+"
+Robbinsville Twp 7
+",Robbinsville,473,179,37.84,33,18,16,77,4,30
+"
+Robbinsville Twp 8
+",Robbinsville,385,103,26.75,20,9,14,45,6,9
+"
+Robbinsville Twp 9
+",Robbinsville,730,224,30.68,29,24,28,102,6,34
+"
+Trenton North 1
+",Trenton,413,72,17.43,5,23,7,5,2,30
+"
+Trenton North 2
+",Trenton,459,61,13.29,7,16,8,5,4,21
+"
+Trenton North 3
+",Trenton,895,193,21.56,24,47,11,10,9,89
+"
+Trenton North 4
+",Trenton,720,127,17.64,9,25,6,8,9,67
+"
+Trenton North 5
+",Trenton,431,89,20.65,17,11,2,23,1,33
+"
+Trenton North 6
+",Trenton,589,147,24.96,31,14,3,39,4,51
+"
+Trenton North 7
+",Trenton,375,57,15.2,7,17,1,8,1,23
+"
+Trenton North 8
+",Trenton,548,93,16.97,17,11,12,12,3,36
+"
+Trenton North 11
+",Trenton,418,66,15.79,3,14,1,6,6,35
+"
+Trenton North 12
+",Trenton,612,138,22.55,28,38,8,16,5,36
+"Trenton South 2
+",Trenton,303,35,11.55,7,5,1,5,1,16
+"
+Trenton South 3
+",Trenton,399,71,17.79,7,13,2,13,4,32
+"
+Trenton South 4
+",Trenton,293,67,22.87,13,12,4,5,4,28
+"
+Trenton South 5
+",Trenton,333,51,15.32,9,6,6,12,4,14
+"
+Trenton South 6
+",Trenton,343,54,15.74,19,9,3,10,1,11
+"
+Trenton South 7
+",Trenton,457,86,18.82,11,11,1,11,3,48
+"
+Trenton South 8
+",Trenton,405,76,18.77,7,6,10,19,5,29
+"
+Trenton South 9
+",Trenton,412,85,20.63,13,11,8,8,10,33
+"
+Trenton East 1
+",Trenton,599,131,21.87,13,36,1,27,10,43
+"
+Trenton East 2
+",Trenton,511,105,20.55,7,29,9,10,5,45
+"
+Trenton East 3
+",Trenton,527,100,18.98,11,19,7,18,4,41
+"
+Trenton East 4
+",Trenton,534,99,18.54,14,19,1,13,7,45
+"
+Trenton East 5
+",Trenton,498,90,18.07,12,12,4,15,2,45
+"
+Trenton East 6
+",Trenton,324,92,28.4,6,18,3,18,2,45
+"
+Trenton East 7
+",Trenton,411,72,17.52,10,10,5,12,2,33
+"
+Trenton East 8
+",Trenton,633,122,19.27,12,15,5,30,9,49
+"
+Trenton West 1
+",Trenton,760,213,28.03,14,42,13,25,8,110
+"
+Trenton West 2
+",Trenton,489,150,30.67,9,40,6,17,8,69
+"
+Trenton West 3
+",Trenton,502,204,40.64,26,35,7,50,5,76
+"
+Trenton West 4
+",Trenton,463,124,26.78,10,27,4,25,2,56
+"
+Trenton West 5
+",Trenton,373,126,33.78,14,29,9,12,9,52
+"
+Trenton West 6
+",Trenton,332,58,17.47,5,20,3,5,3,21
+"
+Trenton West 7
+",Trenton,532,188,35.34,20,22,9,44,1,91
+"
+Trenton West 8
+",Trenton,468,102,21.79,10,19,3,5,6,59
+"
+Trenton West 9
+",Trenton,456,86,18.86,4,25,4,12,2,39
+"
+Trenton West 10
+",Trenton,584,153,26.2,20,30,2,25,6,69
+"
+Trenton West 11
+",Trenton,642,103,16.04,7,27,2,15,4,42
+"
+Trenton West 12
+",Trenton,381,93,24.41,2,26,1,5,4,55
+"
+Trenton West 13
+",Trenton,532,108,20.3,8,24,3,7,6,58
+"
+Trenton West 14
+",Trenton,537,120,22.35,12,26,8,16,5,52
+"
+Trenton West 15
+",Trenton,687,128,18.63,8,25,3,15,6,70
+"Trenton West 16
+",Trenton,444,111,25,12,25,3,12,11,47
+"
+Trenton West 17
+",Trenton,364,55,15.11,4,14,1,6,7,23
+"
+West Windsor 1
+",West Windsor,374,112,29.95,25,9,10,49,2,16
+"
+West Windsor 2
+",West Windsor,390,126,32.31,26,3,8,60,2,27
+"
+West Windsor 4
+",West Windsor,1102,230,20.87,41,21,15,88,8,57
+"
+West Windsor 5
+",West Windsor,870,312,35.86,79,21,20,150,6,36
+"
+West Windsor 6
+",West Windsor,413,168,40.68,39,8,20,82,3,16
+"
+West Windsor 7
+",West Windsor,384,158,41.15,33,13,10,76,13,13
+"
+West Windsor 10
+",West Windsor,1038,298,28.71,64,25,14,124,6,64
+"
+West Windsor 11
+",West Windsor,647,165,25.5,37,5,23,69,11,20
+"
+West Windsor 12
+",West Windsor,477,148,31.03,35,10,17,65,4,16
+"
+West Windsor 13
+",West Windsor,598,129,21.57,21,15,21,53,6,10
+"
+West Windsor 14
+",West Windsor,435,128,29.43,24,6,14,62,1,20
+"
+West Windsor 15
+",West Windsor,1017,242,23.8,44,22,16,97,9,53
+"
+West Windsor 16
+",West Windsor,567,282,49.74,68,21,24,137,14,18
