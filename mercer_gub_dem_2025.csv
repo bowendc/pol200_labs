@@ -14,6 +14,7 @@ East Windsor 12,East Windsor,405,119,29.38,8,25,13,44,2,26
 East Windsor 13,East Windsor,422,121,28.67,20,27,7,43,5,19
 East Windsor 14,East Windsor,369,97,26.29,13,16,7,33,1,27
 East Windsor 15,East Windsor,387,116,29.97,14,21,13,49,2,16
+East Windsor 16,East Windsor,359,122,33.98,21,21,16,38,0,26
 East Windsor 17,East Windsor,375,128,34.13,27,18,12,41,5,25
 Ewing Twp 1,Ewing Twp,343,159,46.36,18,15,18,71,7,30
 Ewing Twp 2,Ewing Twp,376,122,32.45,11,19,1,45,5,41
@@ -132,6 +133,7 @@ Lawrence Twp 2,Lawrence Twp,414,173,41.79,23,22,6,88,4,28
 Lawrence Twp 3,Lawrence Twp,641,230,35.88,25,44,5,50,6,97
 Lawrence Twp 4,Lawrence Twp,672,240,35.71,49,10,9,116,16,38
 Lawrence Twp 5,Lawrence Twp,392,103,26.28,19,23,7,21,8,24
+Lawrence Twp 6,Lawrence Twp,498,233,46.79,37,30,8,89,0,68
 Lawrence Twp 7,Lawrence Twp,592,239,40.37,54,11,17,120,11,25
 Lawrence Twp 8,Lawrence Twp,388,161,41.49,29,13,9,62,10,37
 Lawrence Twp 9,Lawrence Twp,517,134,25.92,16,17,6,55,6,31
@@ -150,8 +152,11 @@ Pennington Boro 2,Pennington Boro,438,197,44.98,55,10,6,102,6,15
 Pennington Boro 3,Pennington Boro,441,157,35.6,40,12,4,70,7,23
 Princeton 1,Princeton,769,225,29.26,49,9,19,125,3,20
 Princeton 2,Princeton,459,186,40.52,53,5,17,101,3,7
+Princeton 3,Princeton,445,143,32.13,25,7,16,76,0,19
 Princeton 4,Princeton,451,147,32.59,36,6,14,75,7,8
+Princeton 5,Princeton,379,147,38.79,36,5,8,75,0,23
 Princeton 6,Princeton,476,160,33.61,53,4,18,62,1,22
+Princeton 7,Princeton,816,66,8.09,22,0,1,14,0,29
 Princeton 8,Princeton,523,212,40.54,66,4,7,88,4,43
 Princeton 9,Princeton,875,273,31.2,62,25,10,97,1,78
 Princeton 10,Princeton,529,156,29.49,48,7,7,71,6,16
@@ -182,8 +187,11 @@ Trenton North 5,Trenton,431,89,20.65,17,11,2,23,1,33
 Trenton North 6,Trenton,589,147,24.96,31,14,3,39,4,51
 Trenton North 7,Trenton,375,57,15.2,7,17,1,8,1,23
 Trenton North 8,Trenton,548,93,16.97,17,11,12,12,3,36
+Trenton North 9,Trenton,304,67,22.04,9,11,1,12,0,31
+Trenton North 10,Trenton,247,30,12.15,4,4,0,5,0,17
 Trenton North 11,Trenton,418,66,15.79,3,14,1,6,6,35
 Trenton North 12,Trenton,612,138,22.55,28,38,8,16,5,36
+Trenton South 1,Trenton,266,44,16.54,13,10,0,11,1,9
 Trenton South 2,Trenton,303,35,11.55,7,5,1,5,1,16
 Trenton South 3,Trenton,399,71,17.79,7,13,2,13,4,32
 Trenton South 4,Trenton,293,67,22.87,13,12,4,5,4,28
@@ -219,10 +227,13 @@ Trenton West 16,Trenton,444,111,25,12,25,3,12,11,47
 Trenton West 17,Trenton,364,55,15.11,4,14,1,6,7,23
 West Windsor 1,West Windsor,374,112,29.95,25,9,10,49,2,16
 West Windsor 2,West Windsor,390,126,32.31,26,3,8,60,2,27
+West Windsor 3,West Windsor,538,123,22.86,27,8,13,60,0,15
 West Windsor 4,West Windsor,1102,230,20.87,41,21,15,88,8,57
 West Windsor 5,West Windsor,870,312,35.86,79,21,20,150,6,36
 West Windsor 6,West Windsor,413,168,40.68,39,8,20,82,3,16
 West Windsor 7,West Windsor,384,158,41.15,33,13,10,76,13,13
+West Windsor 8,West Windsor,134,37,27.61,4,3,1,19,0,10
+West Windsor 9,West Windsor,528,131,24.81,30,11,13,52,0,25
 West Windsor 10,West Windsor,1038,298,28.71,64,25,14,124,6,64
 West Windsor 11,West Windsor,647,165,25.5,37,5,23,69,11,20
 West Windsor 12,West Windsor,477,148,31.03,35,10,17,65,4,16
