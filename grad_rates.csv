@@ -1,0 +1,299 @@
+"","County.Name","District.Code","District.Name","grad.rate.poor","grad.rate.Eng.learners","grad.rate.all","count.poor","count.Eng.learners","count.all"
+"1","Atlantic",110,"Atlantic City School District",75.9,66.2,76.6,431,65,474
+"2","Atlantic",590,"Buena Regional School District",76.9,NA,85.2,78,NA,142
+"3","Atlantic",1310,"Egg Harbor Township School District",90.5,97,92.9,328,33,591
+"4","Atlantic",1790,"Greater Egg Harbor Regional High School District",85.4,94.4,89.4,460,18,842
+"5","Atlantic",1960,"Hammonton School District",77.6,35,87.5,147,20,352
+"6","Atlantic",2910,"Mainland Regional High School",89.8,NA,92.9,98,NA,324
+"7","Atlantic",4180,"Pleasantville Public School District",86.6,77.1,84.8,224,48,256
+"8","Bergen",300,"Bergenfield Borough School District",97.1,90.9,96.2,138,22,318
+"9","Bergen",440,"Bogota Public School District",96.9,90.9,96.3,65,11,108
+"10","Bergen",745,"Carlstadt-East Rutherford Regional High School District",86,NA,91.1,50,NA,124
+"11","Bergen",890,"Cliffside Park School District",92.5,83.6,91.7,200,55,300
+"12","Bergen",990,"Cresskill Public School District",NA,NA,96.9,NA,NA,130
+"13","Bergen",1130,"Dumont Public School District",93.3,NA,91.4,30,NA,210
+"14","Bergen",1345,"Elmwood Park School District",86.1,81.8,88.9,115,11,207
+"15","Bergen",1360,"Emerson Public School District",NA,NA,100,NA,NA,78
+"16","Bergen",1370,"Englewood Public School District",84,53.1,84.4,187,32,269
+"17","Bergen",1450,"Fair Lawn Public School District",96.9,93.3,95.4,65,15,393
+"18","Bergen",1550,"Fort Lee School District",88.5,88.5,94.7,87,26,318
+"19","Bergen",1700,"Garfield Public School District",88.4,80,89.8,207,35,283
+"20","Bergen",1760,"Glen Rock Public School District",NA,NA,98.9,NA,NA,177
+"21","Bergen",1860,"Hackensack School District",92.9,93.7,93.2,338,63,542
+"22","Bergen",2080,"Hasbrouck Heights School District",96.7,NA,98.6,30,NA,144
+"23","Bergen",2620,"Leonia Public School District",92.5,100,96.7,53,11,213
+"24","Bergen",2740,"Lodi School District",94.2,100,93.2,156,19,250
+"25","Bergen",2860,"Lyndhurst Public School District",83.1,78.6,87.2,71,14,203
+"26","Bergen",2900,"Mahwah Township Public School District",88.6,NA,94.1,35,NA,256
+"27","Bergen",3170,"Midland Park School District",NA,NA,97.3,NA,NA,73
+"28","Bergen",3550,"New Milford Public School District",93.9,NA,97.6,33,NA,170
+"29","Bergen",3600,"North Arlington School District",92.9,NA,94.9,42,NA,138
+"30","Bergen",3700,"Northern Highlands Regional High School District",NA,NA,98.3,NA,NA,362
+"31","Bergen",3710,"Northern Valley Regional High School District",92.3,NA,97.4,13,NA,537
+"32","Bergen",3910,"Palisades Park School District",63.4,49.4,69.6,101,79,158
+"33","Bergen",3930,"Paramus Public School District",91.7,90,97.6,36,10,333
+"34","Bergen",3940,"Park Ridge School District",NA,NA,92.9,NA,NA,98
+"35","Bergen",3960,"Pascack Valley Regional High School District",100,NA,97.7,13,NA,520
+"36","Bergen",4300,"Ramapo Indian Hills Regional High School District",72.7,NA,97.7,22,NA,573
+"37","Bergen",4310,"Ramsey School District",85,NA,96.3,20,NA,242
+"38","Bergen",4370,"Ridgefield School District",90.5,63.6,90,42,11,110
+"39","Bergen",4380,"Ridgefield Park Public School District",93,92.3,92.9,129,26,241
+"40","Bergen",4390,"Ridgewood Public School District",78.3,NA,97.1,23,NA,476
+"41","Bergen",4405,"River Dell Regional School District",NA,NA,98.4,NA,NA,256
+"42","Bergen",4600,"Rutherford School District",83.3,NA,92.8,12,NA,181
+"43","Bergen",4610,"Saddle Brook School District",83.8,90,90.3,37,10,134
+"44","Bergen",5150,"Teaneck School District",95.3,94.4,96.1,148,18,333
+"45","Bergen",5160,"Tenafly Public School District",NA,100,96.6,NA,18,324
+"46","Bergen",5410,"Waldwick School District",NA,NA,95.3,NA,NA,128
+"47","Bergen",5430,"Wallington Boro School District",93.8,NA,97,32,NA,100
+"48","Bergen",5755,"Westwood Regional School District",95,NA,96.7,40,NA,215
+"49","Bergen",5830,"Wood-Ridge School District",81.8,NA,88.1,33,NA,109
+"50","Burlington",475,"Bordentown Regional School District",90.4,NA,96.1,52,NA,205
+"51","Burlington",600,"Burlington City Public School District",81.4,71.4,82,86,14,133
+"52","Burlington",610,"Burlington County Institute Of Technology School District",90,NA,93.7,240,NA,490
+"53","Burlington",620,"Burlington Township School District",87.4,NA,92.9,87,NA,325
+"54","Burlington",840,"Cinnaminson Township School District",80.4,NA,93.9,51,NA,197
+"55","Burlington",1060,"Delran Township School District",80.3,72.2,92.5,66,18,266
+"56","Burlington",1520,"Florence Township School District",97.7,NA,98.2,43,NA,113
+"57","Burlington",2610,"Lenape Regional High School District",92.1,78.6,96.2,279,14,1737
+"58","Burlington",3010,"Maple Shade School District",75.8,70,84.9,62,10,139
+"59","Burlington",3360,"Moorestown Township Public School District",95.1,NA,97.9,41,NA,328
+"60","Burlington",3690,"Northern Burlington County Regional School District",85,NA,95.7,40,NA,346
+"61","Burlington",3920,"Palmyra Public School District",100,NA,94.3,41,NA,105
+"62","Burlington",4050,"Pemberton Township School District",97.2,NA,96.3,141,NA,241
+"63","Burlington",4320,"Rancocas Valley Regional High School District",79.8,NA,90.5,168,NA,548
+"64","Burlington",4450,"Riverside Township School District",76.8,52.9,81.6,56,17,98
+"65","Burlington",5805,"Willingboro Public School District",72.7,NA,74.3,128,NA,167
+"66","Camden",150,"Audubon Public School District",73.5,NA,85.6,49,NA,160
+"67","Camden",390,"Black Horse Pike Regional School District",81.7,68.2,86.7,383,22,918
+"68","Camden",680,"Camden City School District",69.7,41.7,66.3,402,72,508
+"69","Camden",700,"Camden County Technical School District",95.6,NA,96.5,365,NA,516
+"70","Camden",800,"Cherry Hill School District",90.9,68,94.7,253,25,922
+"71","Camden",940,"Collingswood Public School District",80.9,NA,88.2,68,NA,170
+"72","Camden",1255,"Eastern Camden County Regional School District",82.8,NA,93.6,99,NA,487
+"73","Camden",1770,"Gloucester City Public School District",78.3,NA,82.2,106,NA,157
+"74","Camden",1802,"Mastery Schools Of Camden Inc.",74.6,60.6,74.9,169,33,171
+"75","Camden",1880,"Haddon Heights School District",91.9,NA,97.4,62,NA,229
+"76","Camden",1890,"Haddon Township School District",89.2,NA,94.2,37,NA,155
+"77","Camden",1900,"Haddonfield School District",NA,NA,97.8,NA,NA,230
+"78","Camden",2670,"Lindenwold Public School District",62.3,42.9,65.1,130,35,149
+"79","Camden",4060,"Pennsauken Township Board Of Education School District",84.6,81.8,84.5,285,44,386
+"80","Camden",4110,"Pine Hill School District",86.9,NA,86.8,99,NA,167
+"81","Camden",5035,"Sterling Regional School District",90.3,NA,92.7,93,NA,245
+"82","Camden",5820,"Winslow Township School District",72.4,NA,78.3,199,NA,318
+"83","Cape May",720,"Cape May County Technical High School District",95.2,NA,96.9,42,NA,127
+"84","Cape May",2820,"Lower Cape May Regional School District",68.4,NA,81.2,98,NA,197
+"85","Cape May",3130,"Middle Township Public School District",85.9,NA,90.3,99,NA,207
+"86","Cape May",3780,"Ocean City School District",86.5,NA,93.7,52,NA,315
+"87","Cape May",5790,"Wildwood City School District",81.5,NA,79.2,65,NA,72
+"88","Cumberland",540,"Bridgeton City School District",84.7,65.6,82.6,366,61,385
+"89","Cumberland",997,"Cumberland Regional School District",88.7,NA,92.1,159,NA,277
+"90","Cumberland",3230,"Millville School District",85.7,84.6,87.2,307,13,429
+"91","Cumberland",5390,"Vineland Public School District",75.3,66.2,77.1,494,71,652
+"92","Essex",250,"Belleville Public School District",94.2,91.1,94.3,260,45,367
+"93","Essex",410,"Bloomfield Township School District",92.9,89.2,93.1,239,37,477
+"94","Essex",660,"Caldwell-West School District",100,NA,97.4,33,NA,230
+"95","Essex",760,"Cedar Grove Township School District",NA,NA,95.6,NA,NA,136
+"96","Essex",1210,"East Orange School District",83.9,83.8,83.4,577,68,663
+"97","Essex",1390,"Essex County Schools Of Technology",97.9,97.1,97.7,517,69,566
+"98","Essex",1750,"Glen Ridge Public School District",NA,NA,99.3,NA,NA,142
+"99","Essex",2330,"Irvington Public School District",82.1,76.3,78.4,335,80,426
+"100","Essex",2730,"Livingston Board Of Education School District",88.9,NA,98.5,18,NA,456
+"101","Essex",3190,"Millburn Township School District",86.7,100,96.3,15,11,327
+"102","Essex",3310,"Montclair Public School District",86.9,NA,95,99,NA,503
+"103","Essex",3570,"Newark Public School District",86.2,83.9,85.1,2299,483,2538
+"104","Essex",3750,"Nutley Public School District",94.2,NA,93.3,69,NA,326
+"105","Essex",3880,"Orange Board Of Education School District",78.9,57.3,77.1,303,89,340
+"106","Essex",4900,"South Orange-Maplewood School District",82.4,72.7,90.7,119,11,495
+"107","Essex",5370,"Verona Public School District",NA,NA,97.2,NA,NA,177
+"108","Essex",5630,"West Essex Regional School District",92,NA,98.5,25,NA,275
+"109","Essex",5680,"West Orange Public Schools",88.6,72.4,88.2,378,29,560
+"110","Gloucester",860,"Clayton Public School District",90.6,NA,92.9,64,NA,112
+"111","Gloucester",870,"Clearview Regional High School District",95,NA,98.1,60,NA,365
+"112","Gloucester",1100,"Deptford Township Public School District",84.3,NA,88.5,127,NA,262
+"113","Gloucester",1715,"Gateway Regional High School District",90.7,NA,92.8,54,NA,152
+"114","Gloucester",1730,"Glassboro School District",94.3,NA,93.6,87,NA,157
+"115","Gloucester",2440,"Kingsway Regional School District",93.4,NA,96.5,76,NA,460
+"116","Gloucester",3280,"Monroe Township Public School District",83.1,NA,90.7,172,NA,453
+"117","Gloucester",4020,"Paulsboro School District",79.7,NA,79.5,79,NA,88
+"118","Gloucester",4140,"Pitman Boro School District",81.8,NA,94.3,22,NA,88
+"119","Gloucester",4940,"Delsea Regional High School District",88.2,NA,93.3,76,NA,252
+"120","Gloucester",5500,"Washington Township School District",89.4,NA,93.6,161,NA,611
+"121","Gloucester",5620,"West Deptford Township School District",79.7,NA,90.7,69,NA,227
+"122","Gloucester",5860,"Woodbury City Public School District",84.6,63.6,83.5,78,11,115
+"123","Hudson",220,"Bayonne School District",84.9,86.7,86.8,438,60,620
+"124","Hudson",2060,"Harrison Public Schools",88.4,76.2,86.4,164,42,184
+"125","Hudson",2210,"Hoboken Public School District",93.1,NA,92.7,72,NA,96
+"126","Hudson",2295,"Hudson County Schools Of Technology School District",98.4,NA,99,314,NA,586
+"127","Hudson",2390,"Jersey City Public Schools",77.7,67,78,1320,264,1631
+"128","Hudson",2410,"Kearny",90.2,85.7,91.1,297,56,440
+"129","Hudson",3610,"North Bergen School District",78.8,66.4,78.2,458,116,620
+"130","Hudson",4730,"Secaucus School District",91.7,NA,90.4,48,NA,135
+"131","Hudson",5240,"Union City School District",91.4,82.3,91.4,903,192,945
+"132","Hudson",5580,"Weehawken Public School District",100,NA,99.1,52,NA,109
+"133","Hudson",5670,"West New York School District",83.5,59.9,82.2,527,142,580
+"134","Hunterdon",1050,"Delaware Valley Regional High School District",NA,NA,94.1,NA,NA,186
+"135","Hunterdon",1376,"South Hunterdon Regional School District",77.8,NA,89.5,18,NA,76
+"136","Hunterdon",2300,"Hunterdon Central Regional High School District",81.9,51.7,94.1,94,29,661
+"137","Hunterdon",3660,"North Hunterdon-Voorhees Regional High School District",88.6,NA,97,35,NA,598
+"138","Mercer",1245,"East Windsor Regional School District",91.4,80.5,94.6,175,41,426
+"139","Mercer",1430,"Ewing Township School District",80.1,57.1,85.2,146,14,264
+"140","Mercer",1950,"Hamilton Township Public School District",88.8,73.7,92.3,447,57,972
+"141","Mercer",2280,"Hopewell Valley Regional School District",100,NA,96.5,16,NA,287
+"142","Mercer",2580,"Lawrence Township Public School District",99,NA,99,100,NA,298
+"143","Mercer",4255,"Princeton Public School District",89.5,73.3,96.2,57,15,416
+"144","Mercer",5210,"Trenton Public School District",64.9,43.8,60.3,761,329,1025
+"145","Mercer",5510,"Robbinsville Public School District",90.5,NA,97.5,21,NA,324
+"146","Mercer",5715,"West Windsor-Plainsboro Regional School District",94.9,100,97.8,78,21,805
+"147","Middlesex",750,"Carteret Public School District",93,73.1,93.2,230,26,295
+"148","Middlesex",1140,"Dunellen Public School District",88.2,78.6,86.9,51,14,84
+"149","Middlesex",1170,"East Brunswick Township School District",96.1,86.7,97.4,154,15,702
+"150","Middlesex",1290,"Edison Township School District",90.7,70.6,94.4,323,51,1173
+"151","Middlesex",2150,"Highland Park Boro School District",92.2,90,92.1,51,10,126
+"152","Middlesex",3120,"Metuchen Public School District",93.3,NA,97.1,15,NA,204
+"153","Middlesex",3140,"Middlesex Borough School District",94.3,90,95.1,53,10,163
+"154","Middlesex",3290,"Monroe Township School District",73.1,63.6,91.4,78,11,605
+"155","Middlesex",3530,"New Brunswick School District",75.9,57,73.7,614,142,646
+"156","Middlesex",3620,"North Brunswick Township School District",92.4,81.8,93.7,236,33,494
+"157","Middlesex",3845,"Old Bridge Township School District",94.7,85.7,95.7,188,14,695
+"158","Middlesex",4090,"Perth Amboy Public School District",86,79.2,86,652,221,701
+"159","Middlesex",4130,"Piscataway Township School District",88.7,70.4,93.3,248,27,550
+"160","Middlesex",4660,"Sayreville School District",90.7,76.9,90.3,421,26,444
+"161","Middlesex",4830,"South Amboy School District",94.7,NA,95.8,38,NA,72
+"162","Middlesex",4860,"South Brunswick School District",86.6,90.9,96,142,11,772
+"163","Middlesex",4910,"South Plainfield School District",83.3,NA,92.6,78,NA,283
+"164","Middlesex",4920,"South River Public School District",88.5,78.6,91.7,122,28,193
+"165","Middlesex",4970,"Spotswood Public School District",68.2,NA,90.8,22,NA,173
+"166","Middlesex",5850,"Woodbridge Township School District",89.2,73.8,92.9,530,42,1147
+"167","Monmouth",100,"Asbury Park School District",88.2,68.4,84.4,68,19,109
+"168","Monmouth",1650,"Freehold Regional High School District",90.1,70,95.8,433,60,2687
+"169","Monmouth",2105,"Hazlet Township Public School District",90.4,NA,94.7,52,NA,226
+"170","Monmouth",2120,"Henry Hudson Regional School District",94.4,NA,94,18,NA,50
+"171","Monmouth",2230,"Holmdel Township School District",100,NA,97.9,12,NA,241
+"172","Monmouth",2400,"Keansburg School District",72.2,NA,79.4,54,NA,97
+"173","Monmouth",2430,"Keyport School District",90.6,NA,91.5,53,NA,94
+"174","Monmouth",2770,"Long Branch Public School District",93.9,93.8,94.6,312,80,371
+"175","Monmouth",2930,"Manasquan School District",89.4,NA,96,47,NA,272
+"176","Monmouth",3040,"Matawan-Aberdeen Regional School District",78.4,NA,85.9,88,NA,291
+"177","Monmouth",3160,"Middletown Township Public School District",86.9,NA,95.3,107,NA,829
+"178","Monmouth",3270,"Monmouth Regional High School",86.8,76.5,90.6,68,17,224
+"179","Monmouth",3510,"Neptune Township School District",74.4,50,76.2,199,24,323
+"180","Monmouth",3810,"Township Of Ocean School District",86.7,73.7,94.6,75,19,242
+"181","Monmouth",4365,"Red Bank Regional School District",87.1,65.4,92.9,140,26,323
+"182","Monmouth",4580,"Rumson-Fair Haven Regional High School District",NA,NA,98.1,NA,NA,267
+"183","Monmouth",4760,"Shore Regional High School District",90.9,NA,95.7,22,NA,162
+"184","Monmouth",5310,"Upper Freehold Regional School District",87.5,NA,96,24,NA,297
+"185","Monmouth",5420,"Wall Township Public School District",80.6,NA,94.6,31,NA,277
+"186","Morris",450,"Boonton Town Public School District",93.7,66.7,95.5,63,12,179
+"187","Morris",630,"Butler Public School District",95.1,NA,90.8,41,NA,120
+"188","Morris",785,"School District Of The Chathams",NA,NA,98.2,NA,NA,328
+"189","Morris",1110,"Dover Public School District",83.4,52.2,82.9,217,69,269
+"190","Morris",1990,"Hanover Park Regional High School District",95.7,NA,96.8,23,NA,377
+"191","Morris",2380,"Jefferson Township Public School District",82.9,NA,93.9,35,NA,228
+"192","Morris",2460,"Kinnelon School District",91.7,NA,98,12,NA,148
+"193","Morris",2870,"Madison Public School District",78.9,NA,95.8,19,NA,216
+"194","Morris",3340,"Montville Township School District",88.2,NA,97.6,17,NA,255
+"195","Morris",3370,"Morris Hills Regional School District",77.9,39.4,90.5,154,33,661
+"196","Morris",3385,"Morris School District",80.3,54.8,90.2,173,73,491
+"197","Morris",3450,"Mount Olive Township School District",88.7,NA,95.4,71,NA,372
+"198","Morris",3460,"Mountain Lakes Public School District",NA,NA,98.8,NA,NA,169
+"199","Morris",3950,"Parsippany-Troy Hills Township School District",90,71.4,95.9,100,21,511
+"200","Morris",4080,"Pequannock Township School District",100,NA,98.9,16,NA,175
+"201","Morris",4330,"Randolph Township School District",91.7,NA,97.7,36,NA,384
+"202","Morris",4560,"Roxbury Township School District",88.5,NA,93.4,61,NA,302
+"203","Morris",5660,"West Morris Regional High School District",80.8,63.6,95.8,26,11,600
+"204","Ocean",185,"Barnegat Township School District",83.5,NA,88.8,109,NA,223
+"205","Ocean",530,"Brick Township Public School District",87.9,94.4,93.1,240,18,692
+"206","Ocean",770,"Central Regional School District",75,NA,87.1,156,NA,419
+"207","Ocean",2360,"Jackson Township School District",91.8,64.7,95,194,17,717
+"208","Ocean",2480,"Lacey Township School District",88.6,NA,93.1,105,NA,321
+"209","Ocean",2520,"Lakewood Township School District",85,66.2,82.3,314,68,351
+"210","Ocean",2940,"Manchester Township School District",92.2,NA,92.9,103,NA,252
+"211","Ocean",4105,"Pinelands Regional School District",90.6,NA,92.7,128,NA,262
+"212","Ocean",4190,"Plumsted Township School District",85.7,NA,90.3,21,NA,93
+"213","Ocean",4210,"Point Pleasant Borough School District",87.8,NA,92.7,41,NA,206
+"214","Ocean",4220,"Point Pleasant Beach School District",100,NA,96.2,11,NA,106
+"215","Ocean",4950,"Southern Regional School District",85.8,NA,92.3,106,NA,522
+"216","Ocean",5190,"Toms River Regional School District",78.8,73.3,89.8,438,30,1271
+"217","Passaic",900,"Clifton Public School District",81.4,75.9,83.3,506,87,774
+"218","Passaic",2100,"Hawthorne Public School District",88.5,NA,90.3,61,NA,185
+"219","Passaic",2510,"Lakeland Regional High School District",87.5,NA,94.8,40,NA,249
+"220","Passaic",3970,"Passaic City School District",67,56.2,66.9,935,194,944
+"221","Passaic",3980,"Passaic County Manchester Regional High School District",79.6,72.7,80.2,157,22,197
+"222","Passaic",3990,"Passaic Valley Regional High School District",88.5,81.3,91.5,113,16,272
+"223","Passaic",4010,"Paterson Public School District",83.6,82.2,83.7,1170,432,1493
+"224","Passaic",4230,"Pompton Lakes School District",89.8,NA,94.4,49,NA,196
+"225","Passaic",5570,"Wayne Township Public School District",86.9,63.6,95.4,84,11,636
+"226","Passaic",5650,"West Milford Township Public School District",95.1,NA,96.8,41,NA,247
+"227","Salem",4070,"Penns Grove-Carneys Point Regional School District",94.8,NA,96,97,NA,124
+"228","Salem",4075,"Pennsville School District",78.2,NA,87.6,55,NA,137
+"229","Salem",4150,"Pittsgrove Township School District",84,NA,91.1,50,NA,124
+"230","Salem",4630,"Salem City School District",89.7,NA,91.4,87,NA,116
+"231","Salem",5910,"Woodstown-Pilesgrove Regional School District",88.6,NA,94.4,44,NA,160
+"232","Somerset",350,"Bernards Township School District",NA,NA,96.5,NA,NA,452
+"233","Somerset",490,"Bound Brook School District",78,66.7,80.3,118,21,152
+"234","Somerset",555,"Bridgewater-Raritan Regional School District",79.8,73.3,92.7,114,30,723
+"235","Somerset",1610,"Franklin Township Public School District",86,76,88.7,279,50,541
+"236","Somerset",2170,"Hillsborough Township Public School District",87.7,NA,95.9,65,NA,585
+"237","Somerset",3000,"Manville School District",88.3,NA,89.7,60,NA,107
+"238","Somerset",3320,"Montgomery Township School District",56.5,NA,91.5,23,NA,377
+"239","Somerset",3670,"North Plainfield School District",88,63.3,89.1,216,60,313
+"240","Somerset",4815,"Somerset Hills Regional School District",68.3,47.6,86.6,41,21,217
+"241","Somerset",4820,"Somerville Public School District",93.9,80,94.9,66,10,295
+"242","Somerset",5550,"Watchung Hills Regional High School District",89.3,NA,97.1,28,NA,509
+"243","Sussex",2165,"High Point Regional High School District",82.2,NA,91.3,45,NA,219
+"244","Sussex",2240,"Hopatcong Borough School District",90.2,NA,94.3,41,NA,105
+"245","Sussex",2465,"Kittatinny Regional School District",91.7,NA,95.2,24,NA,126
+"246","Sussex",2615,"Lenape Valley Regional High School District",71.1,63.6,85.2,38,11,183
+"247","Sussex",3590,"Newton Public School District",69.8,42.1,88.9,53,19,198
+"248","Sussex",4960,"Sparta Township Public School District",81.3,NA,96.1,16,NA,257
+"249","Sussex",5110,"Sussex County Technical School District",95.5,NA,98.2,22,NA,166
+"250","Sussex",5360,"Vernon Township School District",95.7,NA,94.3,69,NA,264
+"251","Sussex",5435,"Wallkill Valley Regional High School",88.1,NA,92.1,42,NA,165
+"252","Union",310,"Berkeley Heights School District",91.7,NA,97.7,12,NA,220
+"253","Union",850,"Clark Township Public School District",100,NA,97.3,24,NA,184
+"254","Union",980,"Cranford Public School District",100,NA,97.9,11,NA,289
+"255","Union",1320,"Elizabeth Public Schools",84.8,75.6,84.4,1569,435,1880
+"256","Union",2190,"Hillside Public School District",87.8,56.3,84.9,148,16,192
+"257","Union",2420,"Kenilworth School District",100,NA,98.5,49,NA,134
+"258","Union",2660,"Linden Public School District",92.4,89.4,91.9,317,47,468
+"259","Union",3560,"New Providence School District",NA,NA,95.5,NA,NA,156
+"260","Union",4160,"Plainfield Public School District",73.1,49.2,72.2,587,301,662
+"261","Union",4290,"Rahway Public School District",88.6,65,88.2,175,20,272
+"262","Union",4540,"Roselle Public School District",79.9,58.8,79.8,139,17,173
+"263","Union",4550,"Roselle Park Public School District",88.1,76.9,91.1,84,13,157
+"264","Union",4670,"Scotch Plains-Fanwood School District",87.2,NA,96.9,39,NA,421
+"265","Union",5000,"Springfield Public School District",81.3,NA,92.6,16,NA,121
+"266","Union",5090,"Summit Public School District",84.3,77.8,95.3,51,18,297
+"267","Union",5290,"Township Of Union School District",89.6,90.9,92.2,307,33,589
+"268","Union",5730,"Westfield Public School District",90.5,NA,95.5,21,NA,471
+"269","Warren",280,"Belvidere School District",100,NA,95.9,14,NA,98
+"270","Warren",1870,"Hackettstown Public School District",71.7,50,86.6,46,14,209
+"271","Warren",3675,"North Warren Regional School District",94.1,NA,95.8,17,NA,118
+"272","Warren",4100,"Phillipsburg School District",84.6,NA,91.9,175,NA,445
+"273","Warren",5465,"Warren Hills Regional School District",82.4,61.5,90.7,85,13,313
+"274","Charter",6010,"Academy Charter High School",82.1,NA,81.8,39,NA,44
+"275","Charter",6013,"Bergen Arts And Science Charter School",98.3,100,98.8,58,11,83
+"276","Charter",6017,"Foundation Academy Charter School",95.5,NA,95.7,66,NA,69
+"277","Charter",6018,"Central Jersey College Prep Charter School",91.3,NA,95.3,23,NA,43
+"278","Charter",6032,"Academy For Urban Leadership Charter School",81,77.8,79.8,79,18,84
+"279","Charter",6033,"The Barack Obama Green Charter High School District",84.6,NA,85.2,52,NA,54
+"280","Charter",6053,"Great Oaks Legacy Charter School",94,NA,94.3,84,NA,88
+"281","Charter",6057,"Peoples Preparatory Charter School",82.1,NA,81.1,84,NA,90
+"282","Charter",6080,"Passaic Arts And Science Charter School",96.5,NA,96.9,57,NA,64
+"283","Charter",6081,"Thomas Edison Energysmart Charter School",NA,NA,96.8,NA,NA,31
+"284","Charter",6096,"Paterson Arts And Science Charter School",100,NA,98.2,50,NA,56
+"285","Charter",6101,"College Achieve Central Charter School",97.5,92.3,97.7,79,26,88
+"286","Charter",6107,"Camden'S Promise Charter School",95.5,92.9,94.2,134,14,139
+"287","Charter",6109,"Lead Charter School",43.9,NA,44.9,107,NA,118
+"288","Charter",6183,"Trenton Stem-To-Civics Charter School",84.7,NA,88.5,59,NA,78
+"289","Charter",6240,"Freedom Prep Charter School",38.6,17.6,38,83,17,92
+"290","Charter",6720,"Hoboken Charter School",100,NA,95.2,19,NA,21
+"291","Charter",7109,"Leap Academy University Charter School",97.6,NA,97.8,126,NA,137
+"292","Charter",7210,"Marion P. Thomas Charter School",94.1,NA,94.4,119,NA,124
+"293","Charter",7320,"North Star Academy Charter School",81.7,NA,81.8,278,NA,296
+"294","Charter",7325,"Team Academy Charter School",95.4,NA,95.5,194,NA,202
+"295","Charter",7410,"Chartertech High School For The Performing Arts",93.7,NA,92.6,63,NA,81
+"296","Charter",7503,"Paterson Charter School For Science And Technology",97.5,NA,97.7,81,NA,86
+"297","Charter",8010,"Union County Teams Charter School-High School/College La",97.1,NA,97.2,35,NA,36
+"298","Charter",8060,"University Academy Charter High School",94.6,NA,95.2,92,NA,104
