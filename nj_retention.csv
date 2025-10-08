@@ -1,0 +1,1337 @@
+CountyCode,CountyName,DistrictCode,DistrictName,Teachers/Admins,RetentionPct_District,RetentionPct_State
+01,Atlantic,0010,Absecon Public Schools District,Administrators,83.3,86.6
+01,Atlantic,0010,Absecon Public Schools District,Teachers,88.5,88.4
+01,Atlantic,0110,Atlantic City School District,Administrators,91.2,86.6
+01,Atlantic,0110,Atlantic City School District,Teachers,93.3,88.4
+01,Atlantic,0120,Atlantic County Vocational School District,Administrators,78.6,86.6
+01,Atlantic,0120,Atlantic County Vocational School District,Teachers,87.3,88.4
+01,Atlantic,0125,Atlantic County Special Services School District,Administrators,100.0,86.6
+01,Atlantic,0125,Atlantic County Special Services School District,Teachers,46.7,88.4
+01,Atlantic,0570,Brigantine Public School District,Administrators,100.0,86.6
+01,Atlantic,0570,Brigantine Public School District,Teachers,88.9,88.4
+01,Atlantic,0590,Buena Regional School District,Administrators,87.5,86.6
+01,Atlantic,0590,Buena Regional School District,Teachers,88.2,88.4
+01,Atlantic,1300,Egg Harbor City School District,Administrators,75.0,86.6
+01,Atlantic,1300,Egg Harbor City School District,Teachers,92.9,88.4
+01,Atlantic,1310,Egg Harbor Township School District,Administrators,82.9,86.6
+01,Atlantic,1310,Egg Harbor Township School District,Teachers,94.2,88.4
+01,Atlantic,1410,Estell Manor School District,Administrators,66.7,86.6
+01,Atlantic,1410,Estell Manor School District,Teachers,81.3,88.4
+01,Atlantic,1540,Folsom Borough School District,Administrators,66.7,86.6
+01,Atlantic,1540,Folsom Borough School District,Teachers,91.7,88.4
+01,Atlantic,1690,Galloway Township Public School District,Administrators,94.4,86.6
+01,Atlantic,1690,Galloway Township Public School District,Teachers,91.8,88.4
+01,Atlantic,1790,Greater Egg Harbor Regional High School District,Administrators,93.1,86.6
+01,Atlantic,1790,Greater Egg Harbor Regional High School District,Teachers,91.9,88.4
+01,Atlantic,1940,Hamilton Township School District,Administrators,81.3,86.6
+01,Atlantic,1940,Hamilton Township School District,Teachers,88.6,88.4
+01,Atlantic,1960,Hammonton School District,Administrators,95.0,86.6
+01,Atlantic,1960,Hammonton School District,Teachers,93.3,88.4
+01,Atlantic,2680,Linwood City School District,Administrators,100.0,86.6
+01,Atlantic,2680,Linwood City School District,Teachers,93.0,88.4
+01,Atlantic,2910,Mainland Regional High School,Administrators,81.8,86.6
+01,Atlantic,2910,Mainland Regional High School,Teachers,89.9,88.4
+01,Atlantic,3020,Margate City School District,Administrators,75.0,86.6
+01,Atlantic,3020,Margate City School District,Teachers,94.2,88.4
+01,Atlantic,3480,Mullica Township School District,Administrators,100.0,86.6
+01,Atlantic,3480,Mullica Township School District,Teachers,90.3,88.4
+01,Atlantic,3720,Northfield City School District,Administrators,100.0,86.6
+01,Atlantic,3720,Northfield City School District,Teachers,90.7,88.4
+01,Atlantic,4180,Pleasantville Public School District,Administrators,95.7,86.6
+01,Atlantic,4180,Pleasantville Public School District,Teachers,92.6,88.4
+01,Atlantic,4240,Port Republic School District,Administrators,0.0,86.6
+01,Atlantic,4240,Port Republic School District,Teachers,83.3,88.4
+01,Atlantic,4800,Somers Point School District,Administrators,50.0,86.6
+01,Atlantic,4800,Somers Point School District,Teachers,84.1,88.4
+01,Atlantic,5350,Ventnor City School District,Administrators,100.0,86.6
+01,Atlantic,5350,Ventnor City School District,Teachers,88.2,88.4
+01,Atlantic,5760,Weymouth Township School District,Administrators,50.0,86.6
+01,Atlantic,5760,Weymouth Township School District,Teachers,68.8,88.4
+03,Bergen,0040,Allendale Public School District,Administrators,80.0,86.6
+03,Bergen,0040,Allendale Public School District,Teachers,93.2,88.4
+03,Bergen,0080,Alpine Public School District,Administrators,100.0,86.6
+03,Bergen,0080,Alpine Public School District,Teachers,95.5,88.4
+03,Bergen,0285,Bergen County Special Services School District,Administrators,94.4,86.6
+03,Bergen,0285,Bergen County Special Services School District,Teachers,93.5,88.4
+03,Bergen,0290,Bergen County Vocational Technical School District,Administrators,100.0,86.6
+03,Bergen,0290,Bergen County Vocational Technical School District,Teachers,93.4,88.4
+03,Bergen,0300,Bergenfield Borough School District,Administrators,100.0,86.6
+03,Bergen,0300,Bergenfield Borough School District,Teachers,92.0,88.4
+03,Bergen,0440,Bogota Public School District,Administrators,90.9,86.6
+03,Bergen,0440,Bogota Public School District,Teachers,86.7,88.4
+03,Bergen,0740,Carlstadt Public School District,Administrators,66.7,86.6
+03,Bergen,0740,Carlstadt Public School District,Teachers,90.9,88.4
+03,Bergen,0745,Carlstadt-East Rutherford Regional High School District,Administrators,100.0,86.6
+03,Bergen,0745,Carlstadt-East Rutherford Regional High School District,Teachers,88.7,88.4
+03,Bergen,0890,Cliffside Park School District,Administrators,88.9,86.6
+03,Bergen,0890,Cliffside Park School District,Teachers,88.6,88.4
+03,Bergen,0930,Closter Public School District,Administrators,85.7,86.6
+03,Bergen,0930,Closter Public School District,Teachers,89.2,88.4
+03,Bergen,0990,Cresskill Public School District,Administrators,84.6,86.6
+03,Bergen,0990,Cresskill Public School District,Teachers,89.5,88.4
+03,Bergen,1070,Demarest School District,Administrators,83.3,86.6
+03,Bergen,1070,Demarest School District,Teachers,93.1,88.4
+03,Bergen,1130,Dumont Public School District,Administrators,100.0,86.6
+03,Bergen,1130,Dumont Public School District,Teachers,88.7,88.4
+03,Bergen,1230,East Rutherford School District,Administrators,80.0,86.6
+03,Bergen,1230,East Rutherford School District,Teachers,86.4,88.4
+03,Bergen,1270,Edgewater School District,Administrators,66.7,86.6
+03,Bergen,1270,Edgewater School District,Teachers,75.4,88.4
+03,Bergen,1345,Elmwood Park School District,Administrators,100.0,86.6
+03,Bergen,1345,Elmwood Park School District,Teachers,85.3,88.4
+03,Bergen,1360,Emerson Public School District,Administrators,100.0,86.6
+03,Bergen,1360,Emerson Public School District,Teachers,88.9,88.4
+03,Bergen,1370,Englewood Public School District,Administrators,75.0,86.6
+03,Bergen,1370,Englewood Public School District,Teachers,81.3,88.4
+03,Bergen,1380,Englewood Cliffs School District,Administrators,83.3,86.6
+03,Bergen,1380,Englewood Cliffs School District,Teachers,91.7,88.4
+03,Bergen,1450,Fair Lawn Public School District,Administrators,96.6,86.6
+03,Bergen,1450,Fair Lawn Public School District,Teachers,91.1,88.4
+03,Bergen,1470,Fairview Public School District,Administrators,100.0,86.6
+03,Bergen,1470,Fairview Public School District,Teachers,83.7,88.4
+03,Bergen,1550,Fort Lee School District,Administrators,82.6,86.6
+03,Bergen,1550,Fort Lee School District,Teachers,93.1,88.4
+03,Bergen,1580,Franklin Lakes School District,Administrators,90.0,86.6
+03,Bergen,1580,Franklin Lakes School District,Teachers,90.5,88.4
+03,Bergen,1700,Garfield Public School District,Administrators,94.3,86.6
+03,Bergen,1700,Garfield Public School District,Teachers,91.2,88.4
+03,Bergen,1760,Glen Rock Public School District,Administrators,100.0,86.6
+03,Bergen,1760,Glen Rock Public School District,Teachers,84.8,88.4
+03,Bergen,1860,Hackensack School District,Administrators,96.6,86.6
+03,Bergen,1860,Hackensack School District,Teachers,93.1,88.4
+03,Bergen,2050,Harrington Park School District,Administrators,100.0,86.6
+03,Bergen,2050,Harrington Park School District,Teachers,89.5,88.4
+03,Bergen,2080,Hasbrouck Heights School District,Administrators,76.9,86.6
+03,Bergen,2080,Hasbrouck Heights School District,Teachers,91.3,88.4
+03,Bergen,2090,Haworth Public School District,Administrators,75.0,86.6
+03,Bergen,2090,Haworth Public School District,Teachers,84.1,88.4
+03,Bergen,2180,Hillsdale School District,Administrators,100.0,86.6
+03,Bergen,2180,Hillsdale School District,Teachers,88.5,88.4
+03,Bergen,2200,Ho-Ho-Kus School District,Administrators,100.0,86.6
+03,Bergen,2200,Ho-Ho-Kus School District,Teachers,92.0,88.4
+03,Bergen,2620,Leonia Public School District,Administrators,81.3,86.6
+03,Bergen,2620,Leonia Public School District,Teachers,82.9,88.4
+03,Bergen,2710,Little Ferry Public School District,Administrators,87.5,86.6
+03,Bergen,2710,Little Ferry Public School District,Teachers,89.4,88.4
+03,Bergen,2740,Lodi School District,Administrators,96.4,86.6
+03,Bergen,2740,Lodi School District,Teachers,85.5,88.4
+03,Bergen,2860,Lyndhurst Public School District,Administrators,94.4,86.6
+03,Bergen,2860,Lyndhurst Public School District,Teachers,91.2,88.4
+03,Bergen,2900,Mahwah Township Public School District,Administrators,88.5,86.6
+03,Bergen,2900,Mahwah Township Public School District,Teachers,85.4,88.4
+03,Bergen,3060,Maywood School District,Administrators,100.0,86.6
+03,Bergen,3060,Maywood School District,Teachers,90.4,88.4
+03,Bergen,3170,Midland Park School District,Administrators,77.8,86.6
+03,Bergen,3170,Midland Park School District,Teachers,87.5,88.4
+03,Bergen,3330,Montvale Board of Education School District,Administrators,75.0,86.6
+03,Bergen,3330,Montvale Board of Education School District,Teachers,85.1,88.4
+03,Bergen,3350,Moonachie School District,Administrators,100.0,86.6
+03,Bergen,3350,Moonachie School District,Teachers,94.3,88.4
+03,Bergen,3550,New Milford Public School District,Administrators,88.2,86.6
+03,Bergen,3550,New Milford Public School District,Teachers,87.1,88.4
+03,Bergen,3600,North Arlington School District,Administrators,93.8,86.6
+03,Bergen,3600,North Arlington School District,Teachers,87.3,88.4
+03,Bergen,3700,Northern Highlands Regional High School District,Administrators,87.5,86.6
+03,Bergen,3700,Northern Highlands Regional High School District,Teachers,89.5,88.4
+03,Bergen,3710,Northern Valley Regional High School District,Administrators,92.9,86.6
+03,Bergen,3710,Northern Valley Regional High School District,Teachers,91.8,88.4
+03,Bergen,3730,Northvale Public School District,Administrators,100.0,86.6
+03,Bergen,3730,Northvale Public School District,Teachers,94.2,88.4
+03,Bergen,3740,Norwood Public School District,Administrators,50.0,86.6
+03,Bergen,3740,Norwood Public School District,Teachers,81.3,88.4
+03,Bergen,3760,Oakland Public School District,Administrators,84.6,86.6
+03,Bergen,3760,Oakland Public School District,Teachers,85.0,88.4
+03,Bergen,3850,Old Tappan Public School District,Administrators,100.0,86.6
+03,Bergen,3850,Old Tappan Public School District,Teachers,91.9,88.4
+03,Bergen,3870,Oradell Public School District,Administrators,100.0,86.6
+03,Bergen,3870,Oradell Public School District,Teachers,95.2,88.4
+03,Bergen,3910,Palisades Park School District,Administrators,N,86.6
+03,Bergen,3910,Palisades Park School District,Teachers,47.6,88.4
+03,Bergen,3930,Paramus Public School District,Administrators,96.0,86.6
+03,Bergen,3930,Paramus Public School District,Teachers,91.9,88.4
+03,Bergen,3940,Park Ridge School District,Administrators,87.5,86.6
+03,Bergen,3940,Park Ridge School District,Teachers,92.0,88.4
+03,Bergen,3960,Pascack Valley Regional High School District,Administrators,81.0,86.6
+03,Bergen,3960,Pascack Valley Regional High School District,Teachers,92.1,88.4
+03,Bergen,4300,Ramapo Indian Hills Regional High School District,Administrators,81.5,86.6
+03,Bergen,4300,Ramapo Indian Hills Regional High School District,Teachers,87.8,88.4
+03,Bergen,4310,Ramsey School District,Administrators,100.0,86.6
+03,Bergen,4310,Ramsey School District,Teachers,90.3,88.4
+03,Bergen,4370,Ridgefield School District,Administrators,86.7,86.6
+03,Bergen,4370,Ridgefield School District,Teachers,89.6,88.4
+03,Bergen,4380,Ridgefield Park Public School District,Administrators,94.1,86.6
+03,Bergen,4380,Ridgefield Park Public School District,Teachers,92.4,88.4
+03,Bergen,4390,Ridgewood Public School District,Administrators,90.3,86.6
+03,Bergen,4390,Ridgewood Public School District,Teachers,91.7,88.4
+03,Bergen,4405,River Dell Regional School District,Administrators,92.3,86.6
+03,Bergen,4405,River Dell Regional School District,Teachers,95.7,88.4
+03,Bergen,4410,River Edge School District,Administrators,70.0,86.6
+03,Bergen,4410,River Edge School District,Teachers,87.3,88.4
+03,Bergen,4430,River Vale Public School District,Administrators,88.9,86.6
+03,Bergen,4430,River Vale Public School District,Teachers,96.1,88.4
+03,Bergen,4470,Rochelle Park School District,Administrators,100.0,86.6
+03,Bergen,4470,Rochelle Park School District,Teachers,91.7,88.4
+03,Bergen,4600,Rutherford School District,Administrators,100.0,86.6
+03,Bergen,4600,Rutherford School District,Teachers,90.2,88.4
+03,Bergen,4610,Saddle Brook School District,Administrators,100.0,86.6
+03,Bergen,4610,Saddle Brook School District,Teachers,84.2,88.4
+03,Bergen,4620,Saddle River School District,Administrators,75.0,86.6
+03,Bergen,4620,Saddle River School District,Teachers,88.9,88.4
+03,Bergen,4845,South  Bergen Jointure Commission School District,Administrators,100.0,86.6
+03,Bergen,4845,South  Bergen Jointure Commission School District,Teachers,86.4,88.4
+03,Bergen,4870,South Hackensack School District,Administrators,80.0,86.6
+03,Bergen,4870,South Hackensack School District,Teachers,96.4,88.4
+03,Bergen,5150,Teaneck School District,Administrators,80.0,86.6
+03,Bergen,5150,Teaneck School District,Teachers,92.9,88.4
+03,Bergen,5160,Tenafly Public School District,Administrators,90.0,86.6
+03,Bergen,5160,Tenafly Public School District,Teachers,93.0,88.4
+03,Bergen,5330,Upper Saddle River School District,Administrators,100.0,86.6
+03,Bergen,5330,Upper Saddle River School District,Teachers,86.7,88.4
+03,Bergen,5410,Waldwick School District,Administrators,100.0,86.6
+03,Bergen,5410,Waldwick School District,Teachers,90.4,88.4
+03,Bergen,5430,Wallington Boro School District,Administrators,75.0,86.6
+03,Bergen,5430,Wallington Boro School District,Teachers,87.4,88.4
+03,Bergen,5755,Westwood Regional School District,Administrators,88.9,86.6
+03,Bergen,5755,Westwood Regional School District,Teachers,88.0,88.4
+03,Bergen,5830,Wood-Ridge School District,Administrators,100.0,86.6
+03,Bergen,5830,Wood-Ridge School District,Teachers,88.7,88.4
+03,Bergen,5880,Woodcliff Lake School District,Administrators,100.0,86.6
+03,Bergen,5880,Woodcliff Lake School District,Teachers,81.9,88.4
+03,Bergen,5920,Wyckoff Township Public School District,Administrators,84.6,86.6
+03,Bergen,5920,Wyckoff Township Public School District,Teachers,86.9,88.4
+05,Burlington,0380,Beverly City School District,Administrators,75.0,86.6
+05,Burlington,0380,Beverly City School District,Teachers,80.0,88.4
+05,Burlington,0475,Bordentown Regional School District,Administrators,100.0,86.6
+05,Burlington,0475,Bordentown Regional School District,Teachers,92.8,88.4
+05,Burlington,0600,Burlington City Public School District,Administrators,100.0,86.6
+05,Burlington,0600,Burlington City Public School District,Teachers,91.4,88.4
+05,Burlington,0605,Burlington County Special Services School District,Administrators,90.0,86.6
+05,Burlington,0605,Burlington County Special Services School District,Teachers,84.7,88.4
+05,Burlington,0610,Burlington County Institute of Technology School District,Administrators,91.7,86.6
+05,Burlington,0610,Burlington County Institute of Technology School District,Teachers,91.6,88.4
+05,Burlington,0620,Burlington Township School District,Administrators,82.6,86.6
+05,Burlington,0620,Burlington Township School District,Teachers,91.4,88.4
+05,Burlington,0830,Chesterfield Township School District,Administrators,62.5,86.6
+05,Burlington,0830,Chesterfield Township School District,Teachers,91.3,88.4
+05,Burlington,0840,Cinnaminson Township School District,Administrators,95.5,86.6
+05,Burlington,0840,Cinnaminson Township School District,Teachers,93.5,88.4
+05,Burlington,1030,Delanco Township School District,Administrators,75.0,86.6
+05,Burlington,1030,Delanco Township School District,Teachers,75.0,88.4
+05,Burlington,1060,Delran Township School District,Administrators,100.0,86.6
+05,Burlington,1060,Delran Township School District,Teachers,91.5,88.4
+05,Burlington,1250,Eastampton Township School District,Administrators,100.0,86.6
+05,Burlington,1250,Eastampton Township School District,Teachers,95.9,88.4
+05,Burlington,1280,Edgewater Park Township School District,Administrators,85.7,86.6
+05,Burlington,1280,Edgewater Park Township School District,Teachers,88.0,88.4
+05,Burlington,1420,Evesham Township School District,Administrators,94.7,86.6
+05,Burlington,1420,Evesham Township School District,Teachers,89.4,88.4
+05,Burlington,1520,Florence Township School District,Administrators,87.5,86.6
+05,Burlington,1520,Florence Township School District,Teachers,91.6,88.4
+05,Burlington,1910,Hainesport Township School District,Administrators,75.0,86.6
+05,Burlington,1910,Hainesport Township School District,Teachers,87.5,88.4
+05,Burlington,2610,Lenape Regional High School District,Administrators,97.5,86.6
+05,Burlington,2610,Lenape Regional High School District,Teachers,93.4,88.4
+05,Burlington,2850,Lumberton Township Board of Education,Administrators,71.4,86.6
+05,Burlington,2850,Lumberton Township Board of Education,Teachers,80.6,88.4
+05,Burlington,2960,Mansfield Township School District,Administrators,100.0,86.6
+05,Burlington,2960,Mansfield Township School District,Teachers,93.3,88.4
+05,Burlington,3010,Maple Shade School District,Administrators,88.2,86.6
+05,Burlington,3010,Maple Shade School District,Teachers,88.8,88.4
+05,Burlington,3070,Medford Lakes School District,Administrators,80.0,86.6
+05,Burlington,3070,Medford Lakes School District,Teachers,85.4,88.4
+05,Burlington,3080,Medford Township School District,Administrators,75.0,86.6
+05,Burlington,3080,Medford Township School District,Teachers,94.8,88.4
+05,Burlington,3360,Moorestown Township Public School District,Administrators,96.2,86.6
+05,Burlington,3360,Moorestown Township Public School District,Teachers,93.7,88.4
+05,Burlington,3430,Mount Holly Township Public School District,Administrators,75.0,86.6
+05,Burlington,3430,Mount Holly Township Public School District,Teachers,95.1,88.4
+05,Burlington,3440,Mount Laurel Township School District,Administrators,86.4,86.6
+05,Burlington,3440,Mount Laurel Township School District,Teachers,90.6,88.4
+05,Burlington,3540,New Hanover Township,Administrators,100.0,86.6
+05,Burlington,3540,New Hanover Township,Teachers,100.0,88.4
+05,Burlington,3650,North Hanover Township School District,Administrators,90.0,86.6
+05,Burlington,3650,North Hanover Township School District,Teachers,89.6,88.4
+05,Burlington,3690,Northern Burlington County Regional School District,Administrators,87.5,86.6
+05,Burlington,3690,Northern Burlington County Regional School District,Teachers,89.4,88.4
+05,Burlington,3920,Palmyra Public School District,Administrators,88.9,86.6
+05,Burlington,3920,Palmyra Public School District,Teachers,95.3,88.4
+05,Burlington,4050,Pemberton Township School District,Administrators,N,86.6
+05,Burlington,4050,Pemberton Township School District,Teachers,N,88.4
+05,Burlington,4320,Rancocas Valley Regional High School District,Administrators,78.6,86.6
+05,Burlington,4320,Rancocas Valley Regional High School District,Teachers,91.0,88.4
+05,Burlington,4450,Riverside Township School District,Administrators,66.7,86.6
+05,Burlington,4450,Riverside Township School District,Teachers,97.4,88.4
+05,Burlington,4460,Riverton School District,Administrators,66.7,86.6
+05,Burlington,4460,Riverton School District,Teachers,96.6,88.4
+05,Burlington,4740,Shamong Township School District,Administrators,100.0,86.6
+05,Burlington,4740,Shamong Township School District,Teachers,90.6,88.4
+05,Burlington,4930,Southampton Township School District,Administrators,85.7,86.6
+05,Burlington,4930,Southampton Township School District,Teachers,82.2,88.4
+05,Burlington,5010,Springfield Township School District,Administrators,66.7,86.6
+05,Burlington,5010,Springfield Township School District,Teachers,95.5,88.4
+05,Burlington,5130,Tabernacle Township School District,Administrators,100.0,86.6
+05,Burlington,5130,Tabernacle Township School District,Teachers,92.9,88.4
+05,Burlington,5720,Westampton Township Public School District,Administrators,100.0,86.6
+05,Burlington,5720,Westampton Township Public School District,Teachers,89.7,88.4
+05,Burlington,5805,Willingboro Public School District,Administrators,74.1,86.6
+05,Burlington,5805,Willingboro Public School District,Teachers,80.5,88.4
+05,Burlington,5890,Woodland Township School District,Administrators,100.0,86.6
+05,Burlington,5890,Woodland Township School District,Teachers,66.7,88.4
+07,Camden,0150,Audubon Public School District,Administrators,72.7,86.6
+07,Camden,0150,Audubon Public School District,Teachers,90.5,88.4
+07,Camden,0190,Barrington School District,Administrators,100.0,86.6
+07,Camden,0190,Barrington School District,Teachers,91.8,88.4
+07,Camden,0260,Bellmawr Public School District,Administrators,76.9,86.6
+07,Camden,0260,Bellmawr Public School District,Teachers,92.9,88.4
+07,Camden,0330,Berlin Borough School District,Administrators,80.0,86.6
+07,Camden,0330,Berlin Borough School District,Teachers,95.9,88.4
+07,Camden,0340,Berlin Township School District,Administrators,100.0,86.6
+07,Camden,0340,Berlin Township School District,Teachers,85.2,88.4
+07,Camden,0390,Black Horse Pike Regional School District,Administrators,81.1,86.6
+07,Camden,0390,Black Horse Pike Regional School District,Teachers,93.5,88.4
+07,Camden,0580,Brooklawn Public School District,Administrators,100.0,86.6
+07,Camden,0580,Brooklawn Public School District,Teachers,93.3,88.4
+07,Camden,0680,Camden City School District,Administrators,81.3,86.6
+07,Camden,0680,Camden City School District,Teachers,88.0,88.4
+07,Camden,0700,Camden County Technical School District,Administrators,81.5,86.6
+07,Camden,0700,Camden County Technical School District,Teachers,85.6,88.4
+07,Camden,0800,Cherry Hill School District,Administrators,87.8,86.6
+07,Camden,0800,Cherry Hill School District,Teachers,90.8,88.4
+07,Camden,0880,Clementon Elementary School District,Administrators,100.0,86.6
+07,Camden,0880,Clementon Elementary School District,Teachers,92.7,88.4
+07,Camden,0940,Collingswood Public School District,Administrators,85.7,86.6
+07,Camden,0940,Collingswood Public School District,Teachers,84.8,88.4
+07,Camden,1255,Eastern Camden County Regional School District,Administrators,100.0,86.6
+07,Camden,1255,Eastern Camden County Regional School District,Teachers,92.0,88.4
+07,Camden,1720,Gibbsboro Elementary School District,Administrators,100.0,86.6
+07,Camden,1720,Gibbsboro Elementary School District,Teachers,96.3,88.4
+07,Camden,1770,Gloucester City Public School District,Administrators,76.2,86.6
+07,Camden,1770,Gloucester City Public School District,Teachers,80.9,88.4
+07,Camden,1780,Gloucester Township Public Schools,Administrators,83.3,86.6
+07,Camden,1780,Gloucester Township Public Schools,Teachers,94.6,88.4
+07,Camden,1799,"KIPP: Cooper Norcross, A New Jersey Nonprofit Corporation",Administrators,50.0,86.6
+07,Camden,1799,"KIPP: Cooper Norcross, A New Jersey Nonprofit Corporation",Teachers,59.6,88.4
+07,Camden,1801,"Camden Prep, Inc.",Administrators,40.0,86.6
+07,Camden,1801,"Camden Prep, Inc.",Teachers,38.3,88.4
+07,Camden,1802,"Mastery Schools of Camden, Inc.",Administrators,100.0,86.6
+07,Camden,1802,"Mastery Schools of Camden, Inc.",Teachers,80.0,88.4
+07,Camden,1880,Haddon Heights School District,Administrators,90.9,86.6
+07,Camden,1880,Haddon Heights School District,Teachers,83.3,88.4
+07,Camden,1890,Haddon Township School District,Administrators,80.0,86.6
+07,Camden,1890,Haddon Township School District,Teachers,93.3,88.4
+07,Camden,1900,Haddonfield School District,Administrators,71.4,86.6
+07,Camden,1900,Haddonfield School District,Teachers,91.4,88.4
+07,Camden,2540,Laurel Springs School District,Administrators,80.0,86.6
+07,Camden,2540,Laurel Springs School District,Teachers,100.0,88.4
+07,Camden,2560,Lawnside School District,Administrators,100.0,86.6
+07,Camden,2560,Lawnside School District,Teachers,85.2,88.4
+07,Camden,2670,Lindenwold Public School District,Administrators,80.0,86.6
+07,Camden,2670,Lindenwold Public School District,Teachers,82.7,88.4
+07,Camden,2890,Magnolia School District,Administrators,100.0,86.6
+07,Camden,2890,Magnolia School District,Teachers,92.5,88.4
+07,Camden,3110,Merchantville School District,Administrators,100.0,86.6
+07,Camden,3110,Merchantville School District,Teachers,100.0,88.4
+07,Camden,3420,Mt. Ephraim School District,Administrators,75.0,86.6
+07,Camden,3420,Mt. Ephraim School District,Teachers,85.7,88.4
+07,Camden,3770,Oaklyn Public School District,Administrators,20.0,86.6
+07,Camden,3770,Oaklyn Public School District,Teachers,87.1,88.4
+07,Camden,4060,Pennsauken Township Board of Education School District,Administrators,88.0,86.6
+07,Camden,4060,Pennsauken Township Board of Education School District,Teachers,84.1,88.4
+07,Camden,4110,Pine Hill School District,Administrators,100.0,86.6
+07,Camden,4110,Pine Hill School District,Teachers,88.7,88.4
+07,Camden,4590,Runnemede Public School District,Administrators,100.0,86.6
+07,Camden,4590,Runnemede Public School District,Teachers,94.9,88.4
+07,Camden,4790,Somerdale School District,Administrators,80.0,86.6
+07,Camden,4790,Somerdale School District,Teachers,95.6,88.4
+07,Camden,5035,Sterling Regional School District,Administrators,87.5,86.6
+07,Camden,5035,Sterling Regional School District,Teachers,95.8,88.4
+07,Camden,5080,Stratford School District,Administrators,100.0,86.6
+07,Camden,5080,Stratford School District,Teachers,94.9,88.4
+07,Camden,5400,Voorhees Township School District,Administrators,93.8,86.6
+07,Camden,5400,Voorhees Township School District,Teachers,90.0,88.4
+07,Camden,5560,Waterford Township School District,Administrators,100.0,86.6
+07,Camden,5560,Waterford Township School District,Teachers,91.0,88.4
+07,Camden,5820,Winslow Township School District,Administrators,85.7,86.6
+07,Camden,5820,Winslow Township School District,Teachers,87.9,88.4
+07,Camden,5900,Woodlynne School District,Administrators,75.0,86.6
+07,Camden,5900,Woodlynne School District,Teachers,73.3,88.4
+09,Cape May,0170,Avalon School District,Administrators,0.0,86.6
+09,Cape May,0170,Avalon School District,Teachers,75.0,88.4
+09,Cape May,0710,Cape May City School District,Administrators,66.7,86.6
+09,Cape May,0710,Cape May City School District,Teachers,100.0,88.4
+09,Cape May,0715,Cape May County Special Services School District,Administrators,66.7,86.6
+09,Cape May,0715,Cape May County Special Services School District,Teachers,76.3,88.4
+09,Cape May,0720,Cape May County Technical High School District,Administrators,75.0,86.6
+09,Cape May,0720,Cape May County Technical High School District,Teachers,90.8,88.4
+09,Cape May,1080,Dennis Township School District,Administrators,75.0,86.6
+09,Cape May,1080,Dennis Township School District,Teachers,86.4,88.4
+09,Cape May,2820,Lower Cape May Regional School District,Administrators,90.0,86.6
+09,Cape May,2820,Lower Cape May Regional School District,Teachers,91.7,88.4
+09,Cape May,2840,Lower Township Elementary School District,Administrators,88.9,86.6
+09,Cape May,2840,Lower Township Elementary School District,Teachers,91.0,88.4
+09,Cape May,3130,Middle Township Public School District,Administrators,100.0,86.6
+09,Cape May,3130,Middle Township Public School District,Teachers,89.6,88.4
+09,Cape May,3680,North Wildwood School District,Administrators,75.0,86.6
+09,Cape May,3680,North Wildwood School District,Teachers,88.6,88.4
+09,Cape May,3780,Ocean City School District,Administrators,83.3,86.6
+09,Cape May,3780,Ocean City School District,Teachers,93.5,88.4
+09,Cape May,5060,Stone Harbor School District,Administrators,100.0,86.6
+09,Cape May,5060,Stone Harbor School District,Teachers,72.7,88.4
+09,Cape May,5340,Upper Township School District,Administrators,87.5,86.6
+09,Cape May,5340,Upper Township School District,Teachers,90.2,88.4
+09,Cape May,5610,West Cape May School District,Administrators,50.0,86.6
+09,Cape May,5610,West Cape May School District,Teachers,83.3,88.4
+09,Cape May,5790,Wildwood City School District,Administrators,88.9,86.6
+09,Cape May,5790,Wildwood City School District,Teachers,95.6,88.4
+09,Cape May,5800,Wildwood Crest Borough School District,Administrators,100.0,86.6
+09,Cape May,5800,Wildwood Crest Borough School District,Teachers,97.2,88.4
+09,Cape May,5840,Woodbine School District,Administrators,50.0,86.6
+09,Cape May,5840,Woodbine School District,Teachers,81.8,88.4
+11,Cumberland,0540,Bridgeton City School District,Administrators,93.8,86.6
+11,Cumberland,0540,Bridgeton City School District,Teachers,82.4,88.4
+11,Cumberland,0950,Commercial Township School District,Administrators,66.7,86.6
+11,Cumberland,0950,Commercial Township School District,Teachers,94.9,88.4
+11,Cumberland,0995,Cumberland County Board of Vocational Education,Administrators,100.0,86.6
+11,Cumberland,0995,Cumberland County Board of Vocational Education,Teachers,89.5,88.4
+11,Cumberland,0997,Cumberland Regional School District,Administrators,90.9,86.6
+11,Cumberland,0997,Cumberland Regional School District,Teachers,91.5,88.4
+11,Cumberland,1020,Deerfield Township School District,Administrators,33.3,86.6
+11,Cumberland,1020,Deerfield Township School District,Teachers,90.3,88.4
+11,Cumberland,1120,Downe Township School District,Administrators,100.0,86.6
+11,Cumberland,1120,Downe Township School District,Teachers,72.2,88.4
+11,Cumberland,1460,Fairfield Township School District,Administrators,50.0,86.6
+11,Cumberland,1460,Fairfield Township School District,Teachers,63.3,88.4
+11,Cumberland,1820,Greenwich Township School District,Administrators,0.0,86.6
+11,Cumberland,1820,Greenwich Township School District,Teachers,100.0,88.4
+11,Cumberland,2270,Hopewell Township School District,Administrators,100.0,86.6
+11,Cumberland,2270,Hopewell Township School District,Teachers,92.7,88.4
+11,Cumberland,2570,Lawrence Township School District,Administrators,100.0,86.6
+11,Cumberland,2570,Lawrence Township School District,Teachers,93.5,88.4
+11,Cumberland,3050,Maurice River Township School District,Administrators,100.0,86.6
+11,Cumberland,3050,Maurice River Township School District,Teachers,79.5,88.4
+11,Cumberland,3230,Millville School District,Administrators,81.1,86.6
+11,Cumberland,3230,Millville School District,Teachers,88.0,88.4
+11,Cumberland,5070,Stow Creek Township School District,Administrators,100.0,86.6
+11,Cumberland,5070,Stow Creek Township School District,Teachers,92.3,88.4
+11,Cumberland,5300,Upper Deerfield Township School District,Administrators,83.3,86.6
+11,Cumberland,5300,Upper Deerfield Township School District,Teachers,90.7,88.4
+11,Cumberland,5390,Vineland Public School District,Administrators,87.2,86.6
+11,Cumberland,5390,Vineland Public School District,Teachers,78.0,88.4
+13,Essex,0250,Belleville Public School District,Administrators,93.8,86.6
+13,Essex,0250,Belleville Public School District,Teachers,89.4,88.4
+13,Essex,0410,Bloomfield Township School District,Administrators,94.3,86.6
+13,Essex,0410,Bloomfield Township School District,Teachers,91.5,88.4
+13,Essex,0660,Caldwell-West School District,Administrators,88.9,86.6
+13,Essex,0660,Caldwell-West School District,Teachers,86.8,88.4
+13,Essex,0760,Cedar Grove Township School District,Administrators,100.0,86.6
+13,Essex,0760,Cedar Grove Township School District,Teachers,86.0,88.4
+13,Essex,1210,East Orange School District,Administrators,82.8,86.6
+13,Essex,1210,East Orange School District,Teachers,87.7,88.4
+13,Essex,1387,Essex Regional Educational Services Commission,Administrators,90.9,86.6
+13,Essex,1387,Essex Regional Educational Services Commission,Teachers,79.1,88.4
+13,Essex,1390,Essex County Schools of Technology,Administrators,90.5,86.6
+13,Essex,1390,Essex County Schools of Technology,Teachers,84.9,88.4
+13,Essex,1400,Essex Fells School District,Administrators,100.0,86.6
+13,Essex,1400,Essex Fells School District,Teachers,81.3,88.4
+13,Essex,1465,Fairfield Public School District,Administrators,80.0,86.6
+13,Essex,1465,Fairfield Public School District,Teachers,90.4,88.4
+13,Essex,1750,Glen Ridge Public School District,Administrators,100.0,86.6
+13,Essex,1750,Glen Ridge Public School District,Teachers,89.1,88.4
+13,Essex,2330,Irvington Public School District,Administrators,82.1,86.6
+13,Essex,2330,Irvington Public School District,Teachers,83.6,88.4
+13,Essex,2730,Livingston Board of Education School District,Administrators,81.6,86.6
+13,Essex,2730,Livingston Board of Education School District,Teachers,88.0,88.4
+13,Essex,3190,Millburn Township School District,Administrators,94.3,86.6
+13,Essex,3190,Millburn Township School District,Teachers,92.9,88.4
+13,Essex,3310,Montclair Public School District,Administrators,81.6,86.6
+13,Essex,3310,Montclair Public School District,Teachers,88.8,88.4
+13,Essex,3570,Newark Public School District,Administrators,83.1,86.6
+13,Essex,3570,Newark Public School District,Teachers,80.2,88.4
+13,Essex,3630,North Caldwell School District,Administrators,100.0,86.6
+13,Essex,3630,North Caldwell School District,Teachers,86.3,88.4
+13,Essex,3750,Nutley Public School District,Administrators,87.5,86.6
+13,Essex,3750,Nutley Public School District,Teachers,89.0,88.4
+13,Essex,3880,Orange Board Of Education School District,Administrators,81.3,86.6
+13,Essex,3880,Orange Board Of Education School District,Teachers,83.2,88.4
+13,Essex,4530,Roseland School District,Administrators,33.3,86.6
+13,Essex,4530,Roseland School District,Teachers,88.9,88.4
+13,Essex,4900,South Orange-Maplewood School District,Administrators,90.5,86.6
+13,Essex,4900,South Orange-Maplewood School District,Teachers,90.9,88.4
+13,Essex,5370,Verona Public School District,Administrators,75.0,86.6
+13,Essex,5370,Verona Public School District,Teachers,88.9,88.4
+13,Essex,5630,West Essex Regional School District,Administrators,100.0,86.6
+13,Essex,5630,West Essex Regional School District,Teachers,87.2,88.4
+13,Essex,5680,West Orange Public Schools,Administrators,90.5,86.6
+13,Essex,5680,West Orange Public Schools,Teachers,90.9,88.4
+15,Gloucester,0860,Clayton Public School District,Administrators,75.0,86.6
+15,Gloucester,0860,Clayton Public School District,Teachers,85.1,88.4
+15,Gloucester,0870,Clearview Regional High School District,Administrators,100.0,86.6
+15,Gloucester,0870,Clearview Regional High School District,Teachers,89.1,88.4
+15,Gloucester,1100,Deptford Township Public School District,Administrators,75.0,86.6
+15,Gloucester,1100,Deptford Township Public School District,Teachers,93.2,88.4
+15,Gloucester,1180,East Greenwich Township School District,Administrators,100.0,86.6
+15,Gloucester,1180,East Greenwich Township School District,Teachers,89.6,88.4
+15,Gloucester,1330,Elk Township School District,Administrators,100.0,86.6
+15,Gloucester,1330,Elk Township School District,Teachers,93.8,88.4
+15,Gloucester,1590,Township of Franklin School District,Administrators,100.0,86.6
+15,Gloucester,1590,Township of Franklin School District,Teachers,80.6,88.4
+15,Gloucester,1715,Gateway Regional High School District,Administrators,85.7,86.6
+15,Gloucester,1715,Gateway Regional High School District,Teachers,92.3,88.4
+15,Gloucester,1730,Glassboro School District,Administrators,82.4,86.6
+15,Gloucester,1730,Glassboro School District,Teachers,86.6,88.4
+15,Gloucester,1774,Gloucester County Special Services School District,Administrators,88.9,86.6
+15,Gloucester,1774,Gloucester County Special Services School District,Teachers,86.0,88.4
+15,Gloucester,1775,Gloucester County Vocational-Technical School District,Administrators,100.0,86.6
+15,Gloucester,1775,Gloucester County Vocational-Technical School District,Teachers,92.7,88.4
+15,Gloucester,1830,Greenwich Township School District,Administrators,100.0,86.6
+15,Gloucester,1830,Greenwich Township School District,Teachers,90.7,88.4
+15,Gloucester,2070,Harrison Township School District,Administrators,100.0,86.6
+15,Gloucester,2070,Harrison Township School District,Teachers,90.1,88.4
+15,Gloucester,2440,Kingsway Regional School District,Administrators,88.2,86.6
+15,Gloucester,2440,Kingsway Regional School District,Teachers,83.1,88.4
+15,Gloucester,2750,Logan Township School District,Administrators,71.4,86.6
+15,Gloucester,2750,Logan Township School District,Teachers,87.8,88.4
+15,Gloucester,2990,Mantua Township School District,Administrators,57.1,86.6
+15,Gloucester,2990,Mantua Township School District,Teachers,89.5,88.4
+15,Gloucester,3280,Monroe Township Public School District,Administrators,81.5,86.6
+15,Gloucester,3280,Monroe Township Public School District,Teachers,89.3,88.4
+15,Gloucester,3490,National Park Boro School District,Administrators,80.0,86.6
+15,Gloucester,3490,National Park Boro School District,Teachers,90.3,88.4
+15,Gloucester,4020,Paulsboro School District,Administrators,88.9,86.6
+15,Gloucester,4020,Paulsboro School District,Teachers,84.8,88.4
+15,Gloucester,4140,Pitman Boro School District,Administrators,91.7,86.6
+15,Gloucester,4140,Pitman Boro School District,Teachers,97.5,88.4
+15,Gloucester,4880,South Harrison Township School District,Administrators,0.0,86.6
+15,Gloucester,4880,South Harrison Township School District,Teachers,77.8,88.4
+15,Gloucester,4940,Delsea Regional High School District,Administrators,75.0,86.6
+15,Gloucester,4940,Delsea Regional High School District,Teachers,88.1,88.4
+15,Gloucester,5120,Swedesboro-Woolwich School District,Administrators,90.0,86.6
+15,Gloucester,5120,Swedesboro-Woolwich School District,Teachers,87.9,88.4
+15,Gloucester,5500,Washington Township School District,Administrators,81.0,86.6
+15,Gloucester,5500,Washington Township School District,Teachers,89.1,88.4
+15,Gloucester,5590,Wenonah  Boro School District,Administrators,100.0,86.6
+15,Gloucester,5590,Wenonah  Boro School District,Teachers,94.7,88.4
+15,Gloucester,5620,West Deptford Township School District,Administrators,73.7,86.6
+15,Gloucester,5620,West Deptford Township School District,Teachers,91.7,88.4
+15,Gloucester,5740,Westville Boro Public School District,Administrators,71.4,86.6
+15,Gloucester,5740,Westville Boro Public School District,Teachers,88.2,88.4
+15,Gloucester,5860,Woodbury City Public School District,Administrators,93.3,86.6
+15,Gloucester,5860,Woodbury City Public School District,Teachers,78.6,88.4
+15,Gloucester,5870,Woodbury Heights Public School District,Administrators,0.0,86.6
+15,Gloucester,5870,Woodbury Heights Public School District,Teachers,88.5,88.4
+17,Hudson,0220,Bayonne School District,Administrators,98.1,86.6
+17,Hudson,0220,Bayonne School District,Teachers,92.3,88.4
+17,Hudson,1200,East Newark School District,Administrators,20.0,86.6
+17,Hudson,1200,East Newark School District,Teachers,57.9,88.4
+17,Hudson,1850,Guttenberg School District,Administrators,83.3,86.6
+17,Hudson,1850,Guttenberg School District,Teachers,80.6,88.4
+17,Hudson,2060,Harrison Public Schools,Administrators,100.0,86.6
+17,Hudson,2060,Harrison Public Schools,Teachers,93.1,88.4
+17,Hudson,2210,Hoboken Public School District,Administrators,88.9,86.6
+17,Hudson,2210,Hoboken Public School District,Teachers,86.0,88.4
+17,Hudson,2295,Hudson County Schools of Technology School District,Administrators,84.0,86.6
+17,Hudson,2295,Hudson County Schools of Technology School District,Teachers,90.8,88.4
+17,Hudson,2390,Jersey City Public Schools,Administrators,94.2,86.6
+17,Hudson,2390,Jersey City Public Schools,Teachers,90.1,88.4
+17,Hudson,2410,Kearny,Administrators,93.3,86.6
+17,Hudson,2410,Kearny,Teachers,94.6,88.4
+17,Hudson,3610,North Bergen School District,Administrators,97.6,86.6
+17,Hudson,3610,North Bergen School District,Teachers,94.5,88.4
+17,Hudson,4730,Secaucus School District,Administrators,85.7,86.6
+17,Hudson,4730,Secaucus School District,Teachers,88.9,88.4
+17,Hudson,5240,Union City School District,Administrators,86.7,86.6
+17,Hudson,5240,Union City School District,Teachers,90.5,88.4
+17,Hudson,5580,Weehawken Public School District,Administrators,100.0,86.6
+17,Hudson,5580,Weehawken Public School District,Teachers,84.3,88.4
+17,Hudson,5670,West New York School District,Administrators,95.0,86.6
+17,Hudson,5670,West New York School District,Teachers,90.1,88.4
+19,Hunterdon,0020,Alexandria Township School District,Administrators,66.7,86.6
+19,Hunterdon,0020,Alexandria Township School District,Teachers,92.0,88.4
+19,Hunterdon,0370,Bethlehem Township School District,Administrators,66.7,86.6
+19,Hunterdon,0370,Bethlehem Township School District,Teachers,79.5,88.4
+19,Hunterdon,0430,Bloomsbury Borough School District,Administrators,100.0,86.6
+19,Hunterdon,0430,Bloomsbury Borough School District,Teachers,76.5,88.4
+19,Hunterdon,0670,Califon Borough School District,Administrators,100.0,86.6
+19,Hunterdon,0670,Califon Borough School District,Teachers,88.9,88.4
+19,Hunterdon,0910,Clinton-Glen Gardner School District,Administrators,100.0,86.6
+19,Hunterdon,0910,Clinton-Glen Gardner School District,Teachers,97.4,88.4
+19,Hunterdon,0920,Clinton Township School District,Administrators,45.5,86.6
+19,Hunterdon,0920,Clinton Township School District,Teachers,74.8,88.4
+19,Hunterdon,1040,Delaware Township School District,Administrators,100.0,86.6
+19,Hunterdon,1040,Delaware Township School District,Teachers,83.0,88.4
+19,Hunterdon,1050,Delaware Valley Regional High School District,Administrators,80.0,86.6
+19,Hunterdon,1050,Delaware Valley Regional High School District,Teachers,92.2,88.4
+19,Hunterdon,1160,East Amwell Township School District,Administrators,100.0,86.6
+19,Hunterdon,1160,East Amwell Township School District,Teachers,90.7,88.4
+19,Hunterdon,1376,South Hunterdon Regional School District,Administrators,77.8,86.6
+19,Hunterdon,1376,South Hunterdon Regional School District,Teachers,92.0,88.4
+19,Hunterdon,1510,Flemington-Raritan Regional School District,Administrators,95.2,86.6
+19,Hunterdon,1510,Flemington-Raritan Regional School District,Teachers,89.4,88.4
+19,Hunterdon,1600,Franklin Township School District,Administrators,100.0,86.6
+19,Hunterdon,1600,Franklin Township School District,Teachers,86.7,88.4
+19,Hunterdon,1680,Frenchtown Borough School District,Administrators,100.0,86.6
+19,Hunterdon,1680,Frenchtown Borough School District,Teachers,81.3,88.4
+19,Hunterdon,1970,Hampton Borough School District,Administrators,25.0,86.6
+19,Hunterdon,1970,Hampton Borough School District,Teachers,100.0,88.4
+19,Hunterdon,2140,High Bridge Borough School District,Administrators,60.0,86.6
+19,Hunterdon,2140,High Bridge Borough School District,Teachers,77.1,88.4
+19,Hunterdon,2220,Holland Township School District,Administrators,100.0,86.6
+19,Hunterdon,2220,Holland Township School District,Teachers,92.9,88.4
+19,Hunterdon,2300,Hunterdon Central Regional High School District,Administrators,100.0,86.6
+19,Hunterdon,2300,Hunterdon Central Regional High School District,Teachers,96.0,88.4
+19,Hunterdon,2308,Hunterdon County Vocational School District,Administrators,75.0,86.6
+19,Hunterdon,2308,Hunterdon County Vocational School District,Teachers,61.5,88.4
+19,Hunterdon,2450,Kingwood Township School District,Administrators,100.0,86.6
+19,Hunterdon,2450,Kingwood Township School District,Teachers,75.7,88.4
+19,Hunterdon,2590,Lebanon Borough School District,Administrators,100.0,86.6
+19,Hunterdon,2590,Lebanon Borough School District,Teachers,93.8,88.4
+19,Hunterdon,2600,Lebanon Township School District,Administrators,100.0,86.6
+19,Hunterdon,2600,Lebanon Township School District,Teachers,87.7,88.4
+19,Hunterdon,3180,Milford Borough School District,Administrators,100.0,86.6
+19,Hunterdon,3180,Milford Borough School District,Teachers,72.7,88.4
+19,Hunterdon,3660,North Hunterdon-Voorhees Regional High School District,Administrators,90.5,86.6
+19,Hunterdon,3660,North Hunterdon-Voorhees Regional High School District,Teachers,92.3,88.4
+19,Hunterdon,4350,Readington Township School District,Administrators,91.7,86.6
+19,Hunterdon,4350,Readington Township School District,Teachers,85.4,88.4
+19,Hunterdon,5180,Tewksbury Township School District,Administrators,75.0,86.6
+19,Hunterdon,5180,Tewksbury Township School District,Teachers,83.9,88.4
+19,Hunterdon,5270,Union Township School District,Administrators,100.0,86.6
+19,Hunterdon,5270,Union Township School District,Teachers,93.0,88.4
+21,Mercer,1245,East Windsor Regional School District,Administrators,79.4,86.6
+21,Mercer,1245,East Windsor Regional School District,Teachers,87.9,88.4
+21,Mercer,1430,Ewing Township School District,Administrators,95.5,86.6
+21,Mercer,1430,Ewing Township School District,Teachers,87.0,88.4
+21,Mercer,1950,Hamilton Township Public School District,Administrators,81.5,86.6
+21,Mercer,1950,Hamilton Township Public School District,Teachers,91.5,88.4
+21,Mercer,2280,Hopewell Valley Regional School District,Administrators,91.7,86.6
+21,Mercer,2280,Hopewell Valley Regional School District,Teachers,90.6,88.4
+21,Mercer,2580,Lawrence Township Public School District,Administrators,84.6,86.6
+21,Mercer,2580,Lawrence Township Public School District,Teachers,88.5,88.4
+21,Mercer,3103,Mercer County Special Services School District,Administrators,69.2,86.6
+21,Mercer,3103,Mercer County Special Services School District,Teachers,82.4,88.4
+21,Mercer,3105,Area Vocational Technical School District of Mercer County,Administrators,66.7,86.6
+21,Mercer,3105,Area Vocational Technical School District of Mercer County,Teachers,81.8,88.4
+21,Mercer,4255,Princeton Public School District,Administrators,85.7,86.6
+21,Mercer,4255,Princeton Public School District,Teachers,92.3,88.4
+21,Mercer,5210,Trenton Public School District,Administrators,84.4,86.6
+21,Mercer,5210,Trenton Public School District,Teachers,89.3,88.4
+21,Mercer,5510,Robbinsville Public School District,Administrators,78.9,86.6
+21,Mercer,5510,Robbinsville Public School District,Teachers,87.7,88.4
+21,Mercer,5715,West Windsor-Plainsboro Regional School District,Administrators,92.0,86.6
+21,Mercer,5715,West Windsor-Plainsboro Regional School District,Teachers,94.1,88.4
+23,Middlesex,0750,Carteret Public School District,Administrators,89.5,86.6
+23,Middlesex,0750,Carteret Public School District,Teachers,92.0,88.4
+23,Middlesex,0970,Cranbury Township School District,Administrators,50.0,86.6
+23,Middlesex,0970,Cranbury Township School District,Teachers,84.2,88.4
+23,Middlesex,1140,Dunellen Public School District,Administrators,70.0,86.6
+23,Middlesex,1140,Dunellen Public School District,Teachers,81.6,88.4
+23,Middlesex,1170,East Brunswick Township School District,Administrators,87.0,86.6
+23,Middlesex,1170,East Brunswick Township School District,Teachers,85.4,88.4
+23,Middlesex,1290,Edison Township School District,Administrators,97.3,86.6
+23,Middlesex,1290,Edison Township School District,Teachers,93.2,88.4
+23,Middlesex,2150,Highland Park Boro School District,Administrators,92.3,86.6
+23,Middlesex,2150,Highland Park Boro School District,Teachers,90.6,88.4
+23,Middlesex,2370,Jamesburg Public School District,Administrators,33.3,86.6
+23,Middlesex,2370,Jamesburg Public School District,Teachers,81.8,88.4
+23,Middlesex,3120,Metuchen Public School District,Administrators,100.0,86.6
+23,Middlesex,3120,Metuchen Public School District,Teachers,90.7,88.4
+23,Middlesex,3140,Middlesex Borough School District,Administrators,78.6,86.6
+23,Middlesex,3140,Middlesex Borough School District,Teachers,92.6,88.4
+23,Middlesex,3145,Educational Services Commission of New Jersey,Administrators,57.7,86.6
+23,Middlesex,3145,Educational Services Commission of New Jersey,Teachers,72.2,88.4
+23,Middlesex,3150,Middlesex County Vocational and Technical School District,Administrators,88.5,86.6
+23,Middlesex,3150,Middlesex County Vocational and Technical School District,Teachers,77.8,88.4
+23,Middlesex,3220,Milltown School District,Administrators,100.0,86.6
+23,Middlesex,3220,Milltown School District,Teachers,78.1,88.4
+23,Middlesex,3290,Monroe Township School District,Administrators,86.7,86.6
+23,Middlesex,3290,Monroe Township School District,Teachers,87.3,88.4
+23,Middlesex,3530,New Brunswick School District,Administrators,89.1,86.6
+23,Middlesex,3530,New Brunswick School District,Teachers,85.8,88.4
+23,Middlesex,3620,North Brunswick Township School District,Administrators,89.3,86.6
+23,Middlesex,3620,North Brunswick Township School District,Teachers,89.4,88.4
+23,Middlesex,3845,Old Bridge Township School District,Administrators,94.7,86.6
+23,Middlesex,3845,Old Bridge Township School District,Teachers,91.1,88.4
+23,Middlesex,4090,Perth Amboy Public School District,Administrators,76.1,86.6
+23,Middlesex,4090,Perth Amboy Public School District,Teachers,88.3,88.4
+23,Middlesex,4130,Piscataway Township School District,Administrators,87.0,86.6
+23,Middlesex,4130,Piscataway Township School District,Teachers,85.9,88.4
+23,Middlesex,4660,Sayreville School District,Administrators,97.1,86.6
+23,Middlesex,4660,Sayreville School District,Teachers,89.3,88.4
+23,Middlesex,4830,South Amboy School District,Administrators,42.9,86.6
+23,Middlesex,4830,South Amboy School District,Teachers,87.2,88.4
+23,Middlesex,4860,South Brunswick School District,Administrators,87.3,86.6
+23,Middlesex,4860,South Brunswick School District,Teachers,88.6,88.4
+23,Middlesex,4910,South Plainfield School District,Administrators,80.0,86.6
+23,Middlesex,4910,South Plainfield School District,Teachers,88.4,88.4
+23,Middlesex,4920,South River Public School District,Administrators,94.1,86.6
+23,Middlesex,4920,South River Public School District,Teachers,87.6,88.4
+23,Middlesex,4970,Spotswood Public School District,Administrators,100.0,86.6
+23,Middlesex,4970,Spotswood Public School District,Teachers,90.5,88.4
+23,Middlesex,5850,Woodbridge Township School District,Administrators,94.0,86.6
+23,Middlesex,5850,Woodbridge Township School District,Teachers,95.2,88.4
+25,Monmouth,0100,Asbury Park School District,Administrators,82.4,86.6
+25,Monmouth,0100,Asbury Park School District,Teachers,86.6,88.4
+25,Monmouth,0130,Atlantic Highlands School District,Administrators,80.0,86.6
+25,Monmouth,0130,Atlantic Highlands School District,Teachers,83.3,88.4
+25,Monmouth,0180,Avon Boro School District,Administrators,25.0,86.6
+25,Monmouth,0180,Avon Boro School District,Teachers,80.0,88.4
+25,Monmouth,0225,Bayshore Jointure Commission School District,Administrators,100.0,86.6
+25,Monmouth,0225,Bayshore Jointure Commission School District,Teachers,80.0,88.4
+25,Monmouth,0270,Belmar Elementary School District,Administrators,75.0,86.6
+25,Monmouth,0270,Belmar Elementary School District,Teachers,98.2,88.4
+25,Monmouth,0500,Bradley Beach School District,Administrators,50.0,86.6
+25,Monmouth,0500,Bradley Beach School District,Teachers,89.7,88.4
+25,Monmouth,0560,Brielle Boro School District,Administrators,75.0,86.6
+25,Monmouth,0560,Brielle Boro School District,Teachers,94.2,88.4
+25,Monmouth,0945,Colts Neck Township School District,Administrators,71.4,86.6
+25,Monmouth,0945,Colts Neck Township School District,Teachers,70.8,88.4
+25,Monmouth,1000,Deal Boro School District,Administrators,100.0,86.6
+25,Monmouth,1000,Deal Boro School District,Teachers,90.0,88.4
+25,Monmouth,1260,Eatontown Public School District,Administrators,87.5,86.6
+25,Monmouth,1260,Eatontown Public School District,Teachers,90.1,88.4
+25,Monmouth,1440,Fair Haven School District,Administrators,85.7,86.6
+25,Monmouth,1440,Fair Haven School District,Teachers,89.7,88.4
+25,Monmouth,1490,Farmingdale Public School District,Administrators,100.0,86.6
+25,Monmouth,1490,Farmingdale Public School District,Teachers,92.3,88.4
+25,Monmouth,1640,Freehold Borough School District,Administrators,90.0,86.6
+25,Monmouth,1640,Freehold Borough School District,Teachers,90.3,88.4
+25,Monmouth,1650,Freehold Regional High School District,Administrators,92.9,86.6
+25,Monmouth,1650,Freehold Regional High School District,Teachers,91.3,88.4
+25,Monmouth,1660,Freehold Township School District,Administrators,91.7,86.6
+25,Monmouth,1660,Freehold Township School District,Teachers,91.0,88.4
+25,Monmouth,2105,Hazlet Township Public School District,Administrators,91.3,86.6
+25,Monmouth,2105,Hazlet Township Public School District,Teachers,94.5,88.4
+25,Monmouth,2120,Henry Hudson Regional School District,Administrators,66.7,86.6
+25,Monmouth,2120,Henry Hudson Regional School District,Teachers,87.2,88.4
+25,Monmouth,2160,Highlands Borough School District,Administrators,83.3,86.6
+25,Monmouth,2160,Highlands Borough School District,Teachers,73.1,88.4
+25,Monmouth,2230,Holmdel Township School District,Administrators,86.7,86.6
+25,Monmouth,2230,Holmdel Township School District,Teachers,91.8,88.4
+25,Monmouth,2290,Howell Township Public School District,Administrators,89.2,86.6
+25,Monmouth,2290,Howell Township Public School District,Teachers,77.1,88.4
+25,Monmouth,2400,Keansburg School District,Administrators,66.7,86.6
+25,Monmouth,2400,Keansburg School District,Teachers,87.7,88.4
+25,Monmouth,2430,Keyport School District,Administrators,81.8,86.6
+25,Monmouth,2430,Keyport School District,Teachers,78.2,88.4
+25,Monmouth,2720,Little Silver Boro School District,Administrators,42.9,86.6
+25,Monmouth,2720,Little Silver Boro School District,Teachers,85.9,88.4
+25,Monmouth,2770,LONG BRANCH PUBLIC SCHOOL District,Administrators,90.9,86.6
+25,Monmouth,2770,LONG BRANCH PUBLIC SCHOOL District,Teachers,88.9,88.4
+25,Monmouth,2920,Manalapan-Englishtown Regional School District,Administrators,92.6,86.6
+25,Monmouth,2920,Manalapan-Englishtown Regional School District,Teachers,91.9,88.4
+25,Monmouth,2930,Manasquan School District,Administrators,85.7,86.6
+25,Monmouth,2930,Manasquan School District,Teachers,93.2,88.4
+25,Monmouth,3030,Marlboro Township School District,Administrators,100.0,86.6
+25,Monmouth,3030,Marlboro Township School District,Teachers,90.5,88.4
+25,Monmouth,3040,Matawan-Aberdeen Regional School District,Administrators,84.0,86.6
+25,Monmouth,3040,Matawan-Aberdeen Regional School District,Teachers,90.9,88.4
+25,Monmouth,3160,Middletown Township Public School District,Administrators,87.2,86.6
+25,Monmouth,3160,Middletown Township Public School District,Teachers,93.6,88.4
+25,Monmouth,3200,Millstone Township School District,Administrators,90.0,86.6
+25,Monmouth,3200,Millstone Township School District,Teachers,88.9,88.4
+25,Monmouth,3250,Monmouth Beach School District,Administrators,50.0,86.6
+25,Monmouth,3250,Monmouth Beach School District,Teachers,82.9,88.4
+25,Monmouth,3255,Monmouth-Ocean Educational Services Commission School District,Administrators,57.1,86.6
+25,Monmouth,3255,Monmouth-Ocean Educational Services Commission School District,Teachers,91.9,88.4
+25,Monmouth,3260,Monmouth County Vocational School District,Administrators,88.2,86.6
+25,Monmouth,3260,Monmouth County Vocational School District,Teachers,90.4,88.4
+25,Monmouth,3270,Monmouth Regional High School,Administrators,100.0,86.6
+25,Monmouth,3270,Monmouth Regional High School,Teachers,90.0,88.4
+25,Monmouth,3500,Neptune City School District,Administrators,50.0,86.6
+25,Monmouth,3500,Neptune City School District,Teachers,86.2,88.4
+25,Monmouth,3510,Neptune Township School District,Administrators,87.1,86.6
+25,Monmouth,3510,Neptune Township School District,Teachers,84.2,88.4
+25,Monmouth,3810,Township of Ocean School District,Administrators,75.0,86.6
+25,Monmouth,3810,Township of Ocean School District,Teachers,91.3,88.4
+25,Monmouth,3830,Oceanport School District,Administrators,50.0,86.6
+25,Monmouth,3830,Oceanport School District,Teachers,89.2,88.4
+25,Monmouth,4360,Red Bank Borough Public School District,Administrators,100.0,86.6
+25,Monmouth,4360,Red Bank Borough Public School District,Teachers,84.8,88.4
+25,Monmouth,4365,Red Bank Regional School District,Administrators,100.0,86.6
+25,Monmouth,4365,Red Bank Regional School District,Teachers,89.8,88.4
+25,Monmouth,4520,Roosevelt Borough Public School District,Administrators,0.0,86.6
+25,Monmouth,4520,Roosevelt Borough Public School District,Teachers,44.4,88.4
+25,Monmouth,4570,Rumson Borough School District,Administrators,100.0,86.6
+25,Monmouth,4570,Rumson Borough School District,Teachers,89.5,88.4
+25,Monmouth,4580,Rumson-Fair Haven Regional High School District,Administrators,63.6,86.6
+25,Monmouth,4580,Rumson-Fair Haven Regional High School District,Teachers,85.1,88.4
+25,Monmouth,4690,Sea Girt Borough School District,Administrators,100.0,86.6
+25,Monmouth,4690,Sea Girt Borough School District,Teachers,100.0,88.4
+25,Monmouth,4760,Shore Regional High School District,Administrators,75.0,86.6
+25,Monmouth,4760,Shore Regional High School District,Teachers,93.1,88.4
+25,Monmouth,4770,Shrewsbury Borough School District,Administrators,100.0,86.6
+25,Monmouth,4770,Shrewsbury Borough School District,Teachers,92.5,88.4
+25,Monmouth,4980,Spring Lake Borough,Administrators,66.7,86.6
+25,Monmouth,4980,Spring Lake Borough,Teachers,91.3,88.4
+25,Monmouth,4990,Spring Lake Heights School District,Administrators,100.0,86.6
+25,Monmouth,4990,Spring Lake Heights School District,Teachers,79.1,88.4
+25,Monmouth,5185,Tinton Falls School District,Administrators,90.0,86.6
+25,Monmouth,5185,Tinton Falls School District,Teachers,88.5,88.4
+25,Monmouth,5230,Union Beach Public School District,Administrators,100.0,86.6
+25,Monmouth,5230,Union Beach Public School District,Teachers,86.7,88.4
+25,Monmouth,5310,Upper Freehold Regional School District,Administrators,66.7,86.6
+25,Monmouth,5310,Upper Freehold Regional School District,Teachers,93.9,88.4
+25,Monmouth,5420,Wall Township Public School District,Administrators,84.0,86.6
+25,Monmouth,5420,Wall Township Public School District,Teachers,91.6,88.4
+25,Monmouth,5640,West Long Branch School District,Administrators,62.5,86.6
+25,Monmouth,5640,West Long Branch School District,Teachers,93.5,88.4
+27,Morris,0450,Boonton Town Public School District,Administrators,76.9,86.6
+27,Morris,0450,Boonton Town Public School District,Teachers,89.6,88.4
+27,Morris,0460,Boonton Township School District,Administrators,100.0,86.6
+27,Morris,0460,Boonton Township School District,Teachers,90.2,88.4
+27,Morris,0630,Butler Public School District,Administrators,100.0,86.6
+27,Morris,0630,Butler Public School District,Teachers,89.3,88.4
+27,Morris,0785,School District of the Chathams,Administrators,69.0,86.6
+27,Morris,0785,School District of the Chathams,Teachers,88.0,88.4
+27,Morris,0820,Chester Township School District,Administrators,100.0,86.6
+27,Morris,0820,Chester Township School District,Teachers,90.1,88.4
+27,Morris,1090,Denville Township K-8 School District,Administrators,100.0,86.6
+27,Morris,1090,Denville Township K-8 School District,Teachers,90.2,88.4
+27,Morris,1110,Dover Public School District,Administrators,84.0,86.6
+27,Morris,1110,Dover Public School District,Teachers,89.9,88.4
+27,Morris,1190,East Hanover Township School District,Administrators,88.9,86.6
+27,Morris,1190,East Hanover Township School District,Teachers,89.9,88.4
+27,Morris,1530,Florham Park School District,Administrators,87.5,86.6
+27,Morris,1530,Florham Park School District,Teachers,90.8,88.4
+27,Morris,1990,Hanover Park Regional High School District,Administrators,100.0,86.6
+27,Morris,1990,Hanover Park Regional High School District,Teachers,86.7,88.4
+27,Morris,2000,Hanover Township School District,Administrators,100.0,86.6
+27,Morris,2000,Hanover Township School District,Teachers,93.1,88.4
+27,Morris,2010,Harding Township School District,Administrators,50.0,86.6
+27,Morris,2010,Harding Township School District,Teachers,83.3,88.4
+27,Morris,2380,Jefferson Township Public School District,Administrators,95.0,86.6
+27,Morris,2380,Jefferson Township Public School District,Teachers,88.2,88.4
+27,Morris,2460,Kinnelon School District,Administrators,82.4,86.6
+27,Morris,2460,Kinnelon School District,Teachers,90.5,88.4
+27,Morris,2650,Lincoln Park School District,Administrators,100.0,86.6
+27,Morris,2650,Lincoln Park School District,Teachers,87.2,88.4
+27,Morris,2870,Madison Public School District,Administrators,86.7,86.6
+27,Morris,2870,Madison Public School District,Teachers,91.6,88.4
+27,Morris,3090,Mendham Borough School District,Administrators,100.0,86.6
+27,Morris,3090,Mendham Borough School District,Teachers,85.2,88.4
+27,Morris,3100,Mendham Township School District,Administrators,100.0,86.6
+27,Morris,3100,Mendham Township School District,Teachers,88.8,88.4
+27,Morris,3240,Mine Hill Township School District,Administrators,100.0,86.6
+27,Morris,3240,Mine Hill Township School District,Teachers,88.2,88.4
+27,Morris,3340,Montville Township School District,Administrators,87.5,86.6
+27,Morris,3340,Montville Township School District,Teachers,93.3,88.4
+27,Morris,3364,Educational Services Commission of Morris County,Administrators,100.0,86.6
+27,Morris,3364,Educational Services Commission of Morris County,Teachers,91.7,88.4
+27,Morris,3365,Morris County Vocational School District,Administrators,100.0,86.6
+27,Morris,3365,Morris County Vocational School District,Teachers,89.3,88.4
+27,Morris,3370,Morris Hills Regional School District,Administrators,95.8,86.6
+27,Morris,3370,Morris Hills Regional School District,Teachers,89.7,88.4
+27,Morris,3380,Morris Plains School District,Administrators,83.3,86.6
+27,Morris,3380,Morris Plains School District,Teachers,75.0,88.4
+27,Morris,3385,Morris School District,Administrators,94.4,86.6
+27,Morris,3385,Morris School District,Teachers,88.7,88.4
+27,Morris,3410,Mount Arlington Public School District,Administrators,100.0,86.6
+27,Morris,3410,Mount Arlington Public School District,Teachers,85.7,88.4
+27,Morris,3450,Mount Olive Township School District,Administrators,93.5,86.6
+27,Morris,3450,Mount Olive Township School District,Teachers,93.2,88.4
+27,Morris,3460,Mountain Lakes Public School District,Administrators,76.9,86.6
+27,Morris,3460,Mountain Lakes Public School District,Teachers,87.6,88.4
+27,Morris,3520,Netcong School District,Administrators,100.0,86.6
+27,Morris,3520,Netcong School District,Teachers,87.9,88.4
+27,Morris,3950,Parsippany-Troy Hills Township School District,Administrators,87.8,86.6
+27,Morris,3950,Parsippany-Troy Hills Township School District,Teachers,94.2,88.4
+27,Morris,4000,Long Hill Township School District,Administrators,85.7,86.6
+27,Morris,4000,Long Hill Township School District,Teachers,92.6,88.4
+27,Morris,4080,Pequannock Township School District,Administrators,64.7,86.6
+27,Morris,4080,Pequannock Township School District,Teachers,85.2,88.4
+27,Morris,4330,Randolph Township School District,Administrators,75.0,86.6
+27,Morris,4330,Randolph Township School District,Teachers,87.8,88.4
+27,Morris,4440,Riverdale School District,Administrators,33.3,86.6
+27,Morris,4440,Riverdale School District,Teachers,93.8,88.4
+27,Morris,4480,Rockaway Borough School District,Administrators,100.0,86.6
+27,Morris,4480,Rockaway Borough School District,Teachers,89.1,88.4
+27,Morris,4490,Rockaway Township School District,Administrators,73.3,86.6
+27,Morris,4490,Rockaway Township School District,Teachers,88.9,88.4
+27,Morris,4560,Roxbury Township School District,Administrators,85.2,86.6
+27,Morris,4560,Roxbury Township School District,Teachers,89.1,88.4
+27,Morris,5520,Washington Township School District,Administrators,63.6,86.6
+27,Morris,5520,Washington Township School District,Teachers,91.1,88.4
+27,Morris,5660,West Morris Regional High School District,Administrators,94.4,86.6
+27,Morris,5660,West Morris Regional High School District,Teachers,80.2,88.4
+27,Morris,5770,Wharton Borough School District,Administrators,100.0,86.6
+27,Morris,5770,Wharton Borough School District,Teachers,89.6,88.4
+29,Ocean,0185,Barnegat Township School District,Administrators,89.5,86.6
+29,Ocean,0185,Barnegat Township School District,Teachers,87.3,88.4
+29,Ocean,0210,Bay Head Borough School District,Administrators,100.0,86.6
+29,Ocean,0210,Bay Head Borough School District,Teachers,93.3,88.4
+29,Ocean,0230,Beach Haven School District,Administrators,0.0,86.6
+29,Ocean,0230,Beach Haven School District,Teachers,84.6,88.4
+29,Ocean,0320,Berkeley Township School District,Administrators,92.3,86.6
+29,Ocean,0320,Berkeley Township School District,Teachers,95.2,88.4
+29,Ocean,0530,Brick Township Public School District,Administrators,87.5,86.6
+29,Ocean,0530,Brick Township Public School District,Teachers,94.1,88.4
+29,Ocean,0770,Central Regional School District,Administrators,100.0,86.6
+29,Ocean,0770,Central Regional School District,Teachers,92.1,88.4
+29,Ocean,1150,Eagleswood Township School District,Administrators,0.0,86.6
+29,Ocean,1150,Eagleswood Township School District,Teachers,66.7,88.4
+29,Ocean,2350,Island Heights School District,Administrators,100.0,86.6
+29,Ocean,2350,Island Heights School District,Teachers,73.7,88.4
+29,Ocean,2360,Jackson Township School District,Administrators,95.0,86.6
+29,Ocean,2360,Jackson Township School District,Teachers,90.4,88.4
+29,Ocean,2480,Lacey Township School District,Administrators,92.0,86.6
+29,Ocean,2480,Lacey Township School District,Teachers,92.7,88.4
+29,Ocean,2500,Lakehurst School District,Administrators,100.0,86.6
+29,Ocean,2500,Lakehurst School District,Teachers,77.5,88.4
+29,Ocean,2520,Lakewood Township School District,Administrators,96.8,86.6
+29,Ocean,2520,Lakewood Township School District,Teachers,85.9,88.4
+29,Ocean,2550,Lavallette Borough School District,Administrators,100.0,86.6
+29,Ocean,2550,Lavallette Borough School District,Teachers,87.5,88.4
+29,Ocean,2690,Little Egg Harbor Township School District,Administrators,53.8,86.6
+29,Ocean,2690,Little Egg Harbor Township School District,Teachers,89.3,88.4
+29,Ocean,2760,Long Beach Island Consolidated School District,Administrators,75.0,86.6
+29,Ocean,2760,Long Beach Island Consolidated School District,Teachers,100.0,88.4
+29,Ocean,2940,Manchester Township School District,Administrators,80.0,86.6
+29,Ocean,2940,Manchester Township School District,Teachers,89.8,88.4
+29,Ocean,3790,Ocean County Vocational Technical School District,Administrators,93.8,86.6
+29,Ocean,3790,Ocean County Vocational Technical School District,Teachers,80.5,88.4
+29,Ocean,3800,Ocean Gate School District,Administrators,100.0,86.6
+29,Ocean,3800,Ocean Gate School District,Teachers,94.7,88.4
+29,Ocean,3820,Ocean Township School District,Administrators,75.0,86.6
+29,Ocean,3820,Ocean Township School District,Teachers,85.4,88.4
+29,Ocean,4105,Pinelands Regional School District,Administrators,62.5,86.6
+29,Ocean,4105,Pinelands Regional School District,Teachers,87.1,88.4
+29,Ocean,4190,Plumsted Township School District,Administrators,90.0,86.6
+29,Ocean,4190,Plumsted Township School District,Teachers,89.1,88.4
+29,Ocean,4210,Point Pleasant Borough School District,Administrators,94.7,86.6
+29,Ocean,4210,Point Pleasant Borough School District,Teachers,90.0,88.4
+29,Ocean,4220,Point Pleasant Beach School District,Administrators,100.0,86.6
+29,Ocean,4220,Point Pleasant Beach School District,Teachers,93.4,88.4
+29,Ocean,4710,Seaside Heights School District,Administrators,50.0,86.6
+29,Ocean,4710,Seaside Heights School District,Teachers,92.0,88.4
+29,Ocean,4950,Southern Regional School District,Administrators,100.0,86.6
+29,Ocean,4950,Southern Regional School District,Teachers,97.4,88.4
+29,Ocean,5020,Stafford Township School District,Administrators,83.3,86.6
+29,Ocean,5020,Stafford Township School District,Teachers,88.3,88.4
+29,Ocean,5190,Toms River Regional School District,Administrators,94.0,86.6
+29,Ocean,5190,Toms River Regional School District,Teachers,93.5,88.4
+29,Ocean,5220,Tuckerton Borough School District,Administrators,50.0,86.6
+29,Ocean,5220,Tuckerton Borough School District,Teachers,81.8,88.4
+31,Passaic,0420,Bloomingdale School District,Administrators,83.3,86.6
+31,Passaic,0420,Bloomingdale School District,Teachers,83.1,88.4
+31,Passaic,0900,Clifton Public School District,Administrators,94.9,86.6
+31,Passaic,0900,Clifton Public School District,Teachers,92.6,88.4
+31,Passaic,1920,Haledon Public School District,Administrators,66.7,86.6
+31,Passaic,1920,Haledon Public School District,Teachers,88.0,88.4
+31,Passaic,2100,Hawthorne Public School District,Administrators,68.4,86.6
+31,Passaic,2100,Hawthorne Public School District,Teachers,81.1,88.4
+31,Passaic,2510,Lakeland Regional High School District,Administrators,88.9,86.6
+31,Passaic,2510,Lakeland Regional High School District,Teachers,90.4,88.4
+31,Passaic,2700,Little Falls Township Public School District,Administrators,83.3,86.6
+31,Passaic,2700,Little Falls Township Public School District,Teachers,92.2,88.4
+31,Passaic,3640,North Haledon School District,Administrators,100.0,86.6
+31,Passaic,3640,North Haledon School District,Teachers,85.0,88.4
+31,Passaic,3970,Passaic City School District,Administrators,93.8,86.6
+31,Passaic,3970,Passaic City School District,Teachers,91.4,88.4
+31,Passaic,3975,Northern Region Educational Services Commission,Administrators,80.0,86.6
+31,Passaic,3975,Northern Region Educational Services Commission,Teachers,75.0,88.4
+31,Passaic,3980,Passaic County Manchester Regional High School District,Administrators,66.7,86.6
+31,Passaic,3980,Passaic County Manchester Regional High School District,Teachers,83.3,88.4
+31,Passaic,3990,Passaic Valley Regional High School District,Administrators,80.0,86.6
+31,Passaic,3990,Passaic Valley Regional High School District,Teachers,92.0,88.4
+31,Passaic,3995,Passaic County Technical-Vocational School District,Administrators,93.3,86.6
+31,Passaic,3995,Passaic County Technical-Vocational School District,Teachers,93.4,88.4
+31,Passaic,4010,Paterson Public School District,Administrators,94.5,86.6
+31,Passaic,4010,Paterson Public School District,Teachers,85.3,88.4
+31,Passaic,4230,Pompton Lakes School District,Administrators,88.2,86.6
+31,Passaic,4230,Pompton Lakes School District,Teachers,93.2,88.4
+31,Passaic,4270,Prospect Park Public School District,Administrators,25.0,86.6
+31,Passaic,4270,Prospect Park Public School District,Teachers,76.9,88.4
+31,Passaic,4400,Ringwood School District,Administrators,70.0,86.6
+31,Passaic,4400,Ringwood School District,Teachers,84.4,88.4
+31,Passaic,5200,Totowa Public School District,Administrators,100.0,86.6
+31,Passaic,5200,Totowa Public School District,Teachers,91.3,88.4
+31,Passaic,5440,Wanaque School District,Administrators,71.4,86.6
+31,Passaic,5440,Wanaque School District,Teachers,84.8,88.4
+31,Passaic,5570,Wayne Township Public School District,Administrators,88.9,86.6
+31,Passaic,5570,Wayne Township Public School District,Teachers,91.0,88.4
+31,Passaic,5650,West Milford Township Public School District,Administrators,85.7,86.6
+31,Passaic,5650,West Milford Township Public School District,Teachers,90.5,88.4
+31,Passaic,5690,Woodland Park School District,Administrators,62.5,86.6
+31,Passaic,5690,Woodland Park School District,Teachers,86.8,88.4
+33,Salem,0060,Alloway Twp School District,Administrators,100.0,86.6
+33,Salem,0060,Alloway Twp School District,Teachers,92.0,88.4
+33,Salem,1350,Elsinboro Township School District,Administrators,0.0,86.6
+33,Salem,1350,Elsinboro Township School District,Teachers,94.4,88.4
+33,Salem,2800,The Lower Alloways Creek School District,Administrators,0.0,86.6
+33,Salem,2800,The Lower Alloways Creek School District,Teachers,80.0,88.4
+33,Salem,2950,Mannington Township School District,Administrators,100.0,86.6
+33,Salem,2950,Mannington Township School District,Teachers,90.5,88.4
+33,Salem,3860,Oldmans Township School District,Administrators,100.0,86.6
+33,Salem,3860,Oldmans Township School District,Teachers,92.3,88.4
+33,Salem,4070,Penns Grove-Carneys Point Regional School District,Administrators,66.7,86.6
+33,Salem,4070,Penns Grove-Carneys Point Regional School District,Teachers,87.8,88.4
+33,Salem,4075,Pennsville School District,Administrators,100.0,86.6
+33,Salem,4075,Pennsville School District,Teachers,94.6,88.4
+33,Salem,4150,Pittsgrove Township School District,Administrators,76.5,86.6
+33,Salem,4150,Pittsgrove Township School District,Teachers,95.7,88.4
+33,Salem,4280,Quinton Township School District,Administrators,50.0,86.6
+33,Salem,4280,Quinton Township School District,Teachers,90.6,88.4
+33,Salem,4630,Salem City School District,Administrators,90.9,86.6
+33,Salem,4630,Salem City School District,Teachers,83.8,88.4
+33,Salem,4635,Salem County Special Services School District,Administrators,88.9,86.6
+33,Salem,4635,Salem County Special Services School District,Teachers,64.6,88.4
+33,Salem,4640,Salem County Vocational Technical School District,Administrators,77.8,86.6
+33,Salem,4640,Salem County Vocational Technical School District,Teachers,87.8,88.4
+33,Salem,5320,Upper Pittsgrove Twp School District,Administrators,100.0,86.6
+33,Salem,5320,Upper Pittsgrove Twp School District,Teachers,94.1,88.4
+33,Salem,5910,Woodstown-Pilesgrove Regional School District,Administrators,81.8,86.6
+33,Salem,5910,Woodstown-Pilesgrove Regional School District,Teachers,87.4,88.4
+35,Somerset,0240,Bedminster Township Public School District,Administrators,100.0,86.6
+35,Somerset,0240,Bedminster Township Public School District,Teachers,83.0,88.4
+35,Somerset,0350,Bernards Township School District,Administrators,100.0,86.6
+35,Somerset,0350,Bernards Township School District,Teachers,92.1,88.4
+35,Somerset,0490,Bound Brook School District,Administrators,94.1,86.6
+35,Somerset,0490,Bound Brook School District,Teachers,85.0,88.4
+35,Somerset,0510,Branchburg Township School District,Administrators,72.7,86.6
+35,Somerset,0510,Branchburg Township School District,Teachers,84.6,88.4
+35,Somerset,0555,Bridgewater-Raritan Regional School District,Administrators,80.4,86.6
+35,Somerset,0555,Bridgewater-Raritan Regional School District,Teachers,89.8,88.4
+35,Somerset,1610,Franklin Township Public School District,Administrators,79.6,86.6
+35,Somerset,1610,Franklin Township Public School District,Teachers,86.4,88.4
+35,Somerset,1810,Green Brook Township Public School District,Administrators,80.0,86.6
+35,Somerset,1810,Green Brook Township Public School District,Teachers,80.5,88.4
+35,Somerset,2170,Hillsborough Township Public School District,Administrators,87.5,86.6
+35,Somerset,2170,Hillsborough Township Public School District,Teachers,89.9,88.4
+35,Somerset,3000,Manville School District,Administrators,75.0,86.6
+35,Somerset,3000,Manville School District,Teachers,82.7,88.4
+35,Somerset,3320,Montgomery Township School District,Administrators,80.6,86.6
+35,Somerset,3320,Montgomery Township School District,Teachers,91.0,88.4
+35,Somerset,3670,North Plainfield School District,Administrators,85.2,86.6
+35,Somerset,3670,North Plainfield School District,Teachers,85.8,88.4
+35,Somerset,4805,Somerset County Educational Services Commission School District,Administrators,100.0,86.6
+35,Somerset,4805,Somerset County Educational Services Commission School District,Teachers,81.0,88.4
+35,Somerset,4810,Somerset County Vocational and Technical School District,Administrators,90.0,86.6
+35,Somerset,4810,Somerset County Vocational and Technical School District,Teachers,98.3,88.4
+35,Somerset,4815,Somerset Hills Regional School District,Administrators,80.0,86.6
+35,Somerset,4815,Somerset Hills Regional School District,Teachers,85.2,88.4
+35,Somerset,4820,Somerville Public School District,Administrators,77.8,86.6
+35,Somerset,4820,Somerville Public School District,Teachers,83.3,88.4
+35,Somerset,4850,South Bound Brook Public School District,Administrators,75.0,86.6
+35,Somerset,4850,South Bound Brook Public School District,Teachers,87.5,88.4
+35,Somerset,5470,Warren Township School District,Administrators,100.0,86.6
+35,Somerset,5470,Warren Township School District,Teachers,91.9,88.4
+35,Somerset,5540,Watchung Borough School District,Administrators,100.0,86.6
+35,Somerset,5540,Watchung Borough School District,Teachers,89.6,88.4
+35,Somerset,5550,Watchung Hills Regional High School District,Administrators,94.1,86.6
+35,Somerset,5550,Watchung Hills Regional High School District,Teachers,91.8,88.4
+37,Sussex,0090,Andover Regional School District,Administrators,83.3,86.6
+37,Sussex,0090,Andover Regional School District,Teachers,79.2,88.4
+37,Sussex,0640,Byram Township School District,Administrators,60.0,86.6
+37,Sussex,0640,Byram Township School District,Teachers,85.7,88.4
+37,Sussex,1560,Frankford Township Consolidated School District,Administrators,100.0,86.6
+37,Sussex,1560,Frankford Township Consolidated School District,Teachers,89.1,88.4
+37,Sussex,1570,Franklin Borough School District,Administrators,100.0,86.6
+37,Sussex,1570,Franklin Borough School District,Teachers,90.0,88.4
+37,Sussex,1630,Fredon Township School District,Administrators,50.0,86.6
+37,Sussex,1630,Fredon Township School District,Teachers,79.2,88.4
+37,Sussex,1800,Green Township School District,Administrators,100.0,86.6
+37,Sussex,1800,Green Township School District,Teachers,91.1,88.4
+37,Sussex,1930,Hamburg School District,Administrators,100.0,86.6
+37,Sussex,1930,Hamburg School District,Teachers,96.6,88.4
+37,Sussex,1980,Hampton Township School District,Administrators,75.0,86.6
+37,Sussex,1980,Hampton Township School District,Teachers,75.0,88.4
+37,Sussex,2030,Hardyston Township School District,Administrators,66.7,86.6
+37,Sussex,2030,Hardyston Township School District,Teachers,82.0,88.4
+37,Sussex,2165,High Point Regional High School District,Administrators,66.7,86.6
+37,Sussex,2165,High Point Regional High School District,Teachers,89.3,88.4
+37,Sussex,2240,Hopatcong Borough School District,Administrators,87.5,86.6
+37,Sussex,2240,Hopatcong Borough School District,Teachers,87.4,88.4
+37,Sussex,2465,Kittatinny Regional School District,Administrators,77.8,86.6
+37,Sussex,2465,Kittatinny Regional School District,Teachers,95.3,88.4
+37,Sussex,2490,Lafayette Township School District,Administrators,66.7,86.6
+37,Sussex,2490,Lafayette Township School District,Teachers,88.9,88.4
+37,Sussex,2615,Lenape Valley Regional High School District,Administrators,70.0,86.6
+37,Sussex,2615,Lenape Valley Regional High School District,Teachers,85.2,88.4
+37,Sussex,3300,Montague Township School District,Administrators,40.0,86.6
+37,Sussex,3300,Montague Township School District,Teachers,78.1,88.4
+37,Sussex,3590,Newton Public School District,Administrators,81.8,86.6
+37,Sussex,3590,Newton Public School District,Teachers,92.0,88.4
+37,Sussex,3840,Ogdensburg Borough School District,Administrators,100.0,86.6
+37,Sussex,3840,Ogdensburg Borough School District,Teachers,92.3,88.4
+37,Sussex,4650,Sandyston-Walpack Consolidated School District,Administrators,33.3,86.6
+37,Sussex,4650,Sandyston-Walpack Consolidated School District,Teachers,86.7,88.4
+37,Sussex,4960,Sparta Township Public School District,Administrators,89.7,86.6
+37,Sussex,4960,Sparta Township Public School District,Teachers,93.2,88.4
+37,Sussex,5030,Stanhope School District,Administrators,100.0,86.6
+37,Sussex,5030,Stanhope School District,Teachers,93.5,88.4
+37,Sussex,5040,Stillwater Township School District,Administrators,100.0,86.6
+37,Sussex,5040,Stillwater Township School District,Teachers,82.4,88.4
+37,Sussex,5100,Sussex-Wantage Regional School District,Administrators,83.3,86.6
+37,Sussex,5100,Sussex-Wantage Regional School District,Teachers,91.5,88.4
+37,Sussex,5105,Northern Hills Academy School District,Administrators,66.7,86.6
+37,Sussex,5105,Northern Hills Academy School District,Teachers,55.6,88.4
+37,Sussex,5110,Sussex County Technical School District,Administrators,71.4,86.6
+37,Sussex,5110,Sussex County Technical School District,Teachers,82.0,88.4
+37,Sussex,5360,Vernon Township School District,Administrators,76.5,86.6
+37,Sussex,5360,Vernon Township School District,Teachers,94.9,88.4
+37,Sussex,5435,Wallkill Valley Regional High School,Administrators,85.7,86.6
+37,Sussex,5435,Wallkill Valley Regional High School,Teachers,90.4,88.4
+39,Union,0310,Berkeley Heights School District,Administrators,73.9,86.6
+39,Union,0310,Berkeley Heights School District,Teachers,86.1,88.4
+39,Union,0850,Clark Township Public School District,Administrators,86.7,86.6
+39,Union,0850,Clark Township Public School District,Teachers,85.6,88.4
+39,Union,0980,Cranford Public School District,Administrators,96.2,86.6
+39,Union,0980,Cranford Public School District,Teachers,89.2,88.4
+39,Union,1320,Elizabeth Public Schools,Administrators,93.1,86.6
+39,Union,1320,Elizabeth Public Schools,Teachers,93.0,88.4
+39,Union,1710,Garwood Boro,Administrators,66.7,86.6
+39,Union,1710,Garwood Boro,Teachers,100.0,88.4
+39,Union,2190,Hillside Public School District,Administrators,92.6,86.6
+39,Union,2190,Hillside Public School District,Teachers,82.2,88.4
+39,Union,2420,Kenilworth School District,Administrators,81.8,86.6
+39,Union,2420,Kenilworth School District,Teachers,86.0,88.4
+39,Union,2660,Linden Public School District,Administrators,73.8,86.6
+39,Union,2660,Linden Public School District,Teachers,89.3,88.4
+39,Union,3395,Morris-Union Jointure Commission School District,Administrators,81.8,86.6
+39,Union,3395,Morris-Union Jointure Commission School District,Teachers,79.5,88.4
+39,Union,3470,Mountainside School District,Administrators,80.0,86.6
+39,Union,3470,Mountainside School District,Teachers,91.7,88.4
+39,Union,3560,New Providence School District,Administrators,85.7,86.6
+39,Union,3560,New Providence School District,Teachers,92.0,88.4
+39,Union,4160,Plainfield Public School District,Administrators,83.0,86.6
+39,Union,4160,Plainfield Public School District,Teachers,86.9,88.4
+39,Union,4290,Rahway Public School District,Administrators,78.6,86.6
+39,Union,4290,Rahway Public School District,Teachers,89.8,88.4
+39,Union,4540,Roselle Public School District,Administrators,84.4,86.6
+39,Union,4540,Roselle Public School District,Teachers,73.5,88.4
+39,Union,4550,Roselle Park Public School District,Administrators,84.6,86.6
+39,Union,4550,Roselle Park Public School District,Teachers,89.1,88.4
+39,Union,4670,Scotch Plains-Fanwood School District,Administrators,89.7,86.6
+39,Union,4670,Scotch Plains-Fanwood School District,Teachers,90.3,88.4
+39,Union,5000,Springfield Public School District,Administrators,86.7,86.6
+39,Union,5000,Springfield Public School District,Teachers,90.2,88.4
+39,Union,5090,Summit Public School District,Administrators,86.7,86.6
+39,Union,5090,Summit Public School District,Teachers,87.7,88.4
+39,Union,5245,Union County Educational Services Commission,Administrators,78.6,86.6
+39,Union,5245,Union County Educational Services Commission,Teachers,78.3,88.4
+39,Union,5260,Union County Vocational-Technical School District,Administrators,95.2,86.6
+39,Union,5260,Union County Vocational-Technical School District,Teachers,84.3,88.4
+39,Union,5290,Township of Union School District,Administrators,84.2,86.6
+39,Union,5290,Township of Union School District,Teachers,91.5,88.4
+39,Union,5730,Westfield Public School District,Administrators,96.6,86.6
+39,Union,5730,Westfield Public School District,Teachers,93.4,88.4
+39,Union,5810,Winfield Township,Administrators,66.7,86.6
+39,Union,5810,Winfield Township,Teachers,90.0,88.4
+41,Warren,0030,Allamuchy Township School District,Administrators,66.7,86.6
+41,Warren,0030,Allamuchy Township School District,Teachers,81.6,88.4
+41,Warren,0070,Alpha Borough School District,Administrators,100.0,86.6
+41,Warren,0070,Alpha Borough School District,Teachers,92.3,88.4
+41,Warren,0280,Belvidere School District,Administrators,100.0,86.6
+41,Warren,0280,Belvidere School District,Teachers,92.2,88.4
+41,Warren,0400,Blairstown Elementary Township School District,Administrators,75.0,86.6
+41,Warren,0400,Blairstown Elementary Township School District,Teachers,93.0,88.4
+41,Warren,1620,Franklin Township School District,Administrators,100.0,86.6
+41,Warren,1620,Franklin Township School District,Teachers,80.8,88.4
+41,Warren,1670,Frelinghuysen Township School District,Administrators,100.0,86.6
+41,Warren,1670,Frelinghuysen Township School District,Teachers,84.6,88.4
+41,Warren,1785,Great Meadows Regional School District,Administrators,75.0,86.6
+41,Warren,1785,Great Meadows Regional School District,Teachers,85.0,88.4
+41,Warren,1840,Greenwich Township School District,Administrators,50.0,86.6
+41,Warren,1840,Greenwich Township School District,Teachers,82.5,88.4
+41,Warren,1870,Hackettstown Public School District,Administrators,85.7,86.6
+41,Warren,1870,Hackettstown Public School District,Teachers,87.3,88.4
+41,Warren,2040,Harmony Township School District,Administrators,0.0,86.6
+41,Warren,2040,Harmony Township School District,Teachers,93.3,88.4
+41,Warren,2250,Hope Township School District,Administrators,33.3,86.6
+41,Warren,2250,Hope Township School District,Teachers,90.0,88.4
+41,Warren,2470,Knowlton Township School District,Administrators,100.0,86.6
+41,Warren,2470,Knowlton Township School District,Teachers,85.7,88.4
+41,Warren,2790,Lopatcong Township School District,Administrators,33.3,86.6
+41,Warren,2790,Lopatcong Township School District,Teachers,84.5,88.4
+41,Warren,2970,Mansfield Township Elementary School District,Administrators,80.0,86.6
+41,Warren,2970,Mansfield Township Elementary School District,Teachers,88.9,88.4
+41,Warren,3675,North Warren Regional School District,Administrators,80.0,86.6
+41,Warren,3675,North Warren Regional School District,Teachers,86.4,88.4
+41,Warren,3890,Oxford Township School District,Administrators,75.0,86.6
+41,Warren,3890,Oxford Township School District,Teachers,76.7,88.4
+41,Warren,4100,Phillipsburg School District,Administrators,95.2,86.6
+41,Warren,4100,Phillipsburg School District,Teachers,94.7,88.4
+41,Warren,4200,Pohatcong Township School District,Administrators,100.0,86.6
+41,Warren,4200,Pohatcong Township School District,Teachers,93.3,88.4
+41,Warren,5460,Warren County Vocational Technical School,Administrators,100.0,86.6
+41,Warren,5460,Warren County Vocational Technical School,Teachers,87.5,88.4
+41,Warren,5465,Warren Hills Regional School District,Administrators,100.0,86.6
+41,Warren,5465,Warren Hills Regional School District,Teachers,92.0,88.4
+41,Warren,5480,Washington Borough School District,Administrators,100.0,86.6
+41,Warren,5480,Washington Borough School District,Teachers,86.0,88.4
+41,Warren,5530,Washington Township School District,Administrators,100.0,86.6
+41,Warren,5530,Washington Township School District,Teachers,97.7,88.4
+41,Warren,5780,White Township Consolidated School District,Administrators,33.3,86.6
+41,Warren,5780,White Township Consolidated School District,Teachers,93.8,88.4
+80,Monmouth,6010,Academy Charter High School,Administrators,100.0,86.6
+80,Monmouth,6010,Academy Charter High School,Teachers,100.0,88.4
+80,Bergen,6013,Bergen Arts and Science Charter School,Administrators,71.4,86.6
+80,Bergen,6013,Bergen Arts and Science Charter School,Teachers,79.7,88.4
+80,Mercer,6017,Foundation Academy Charter School,Administrators,77.8,86.6
+80,Mercer,6017,Foundation Academy Charter School,Teachers,61.5,88.4
+80,Somerset,6018,Central Jersey College Prep Charter School,Administrators,60.0,86.6
+80,Somerset,6018,Central Jersey College Prep Charter School,Teachers,70.4,88.4
+80,Essex,6020,Pride Academy Charter School District,Administrators,100.0,86.6
+80,Essex,6020,Pride Academy Charter School District,Teachers,74.1,88.4
+80,Passaic,6021,Community Charter School of Paterson,Administrators,33.3,86.6
+80,Passaic,6021,Community Charter School of Paterson,Teachers,23.9,88.4
+80,Essex,6022,Burch Charter School of Excellence,Administrators,50.0,86.6
+80,Essex,6022,Burch Charter School of Excellence,Teachers,33.3,88.4
+80,Mercer,6025,Paul Robeson Charter School for the Humanities,Administrators,100.0,86.6
+80,Mercer,6025,Paul Robeson Charter School for the Humanities,Teachers,81.1,88.4
+80,Burlington,6026,Riverbank Charter School of Excellence,Administrators,100.0,86.6
+80,Burlington,6026,Riverbank Charter School of Excellence,Teachers,100.0,88.4
+80,Cumberland,6028,Vineland Public Charter School,Administrators,100.0,86.6
+80,Cumberland,6028,Vineland Public Charter School,Teachers,63.6,88.4
+80,Essex,6029,Newark Educators Community Charter School,Administrators,100.0,86.6
+80,Essex,6029,Newark Educators Community Charter School,Teachers,66.7,88.4
+80,Hudson,6030,The Ethical Community Charter School School District,Administrators,100.0,86.6
+80,Hudson,6030,The Ethical Community Charter School School District,Teachers,43.3,88.4
+80,Middlesex,6032,Academy for Urban Leadership Charter School,Administrators,50.0,86.6
+80,Middlesex,6032,Academy for Urban Leadership Charter School,Teachers,51.3,88.4
+80,Union,6033,The Barack Obama Green Charter High School District,Administrators,100.0,86.6
+80,Union,6033,The Barack Obama Green Charter High School District,Teachers,79.2,88.4
+80,Hudson,6036,Hoboken Dual Language Charter School,Administrators,100.0,86.6
+80,Hudson,6036,Hoboken Dual Language Charter School,Teachers,81.3,88.4
+80,Middlesex,6041,Hatikvah International Academy Charter School,Administrators,100.0,86.6
+80,Middlesex,6041,Hatikvah International Academy Charter School,Teachers,73.9,88.4
+80,Essex,6053,Great Oaks Legacy Charter School,Administrators,55.0,86.6
+80,Essex,6053,Great Oaks Legacy Charter School,Teachers,45.0,88.4
+80,Essex,6057,Peoples Preparatory Charter School,Administrators,N,86.6
+80,Essex,6057,Peoples Preparatory Charter School,Teachers,73.7,88.4
+80,Essex,6058,Roseville Community Charter School,Administrators,100.0,86.6
+80,Essex,6058,Roseville Community Charter School,Teachers,81.5,88.4
+80,Atlantic,6060,Atlantic Community Charter School,Administrators,100.0,86.6
+80,Atlantic,6060,Atlantic Community Charter School,Teachers,60.6,88.4
+80,Hudson,6064,Dr Lena Edwards Academic Charter School,Administrators,66.7,86.6
+80,Hudson,6064,Dr Lena Edwards Academic Charter School,Teachers,69.2,88.4
+80,Cumberland,6069,Millville Public Charter School,Administrators,50.0,86.6
+80,Cumberland,6069,Millville Public Charter School,Teachers,56.5,88.4
+80,Burlington,6076,Benjamin Banneker Preparatory Charter School,Administrators,N,86.6
+80,Burlington,6076,Benjamin Banneker Preparatory Charter School,Teachers,N,88.4
+80,Passaic,6079,John P Holland Charter School School District,Administrators,80.0,86.6
+80,Passaic,6079,John P Holland Charter School School District,Teachers,62.9,88.4
+80,Passaic,6080,Passaic Arts and Science Charter School,Administrators,100.0,86.6
+80,Passaic,6080,Passaic Arts and Science Charter School,Teachers,85.1,88.4
+80,Somerset,6081,Thomas Edison EnergySmart Charter School,Administrators,100.0,86.6
+80,Somerset,6081,Thomas Edison EnergySmart Charter School,Teachers,75.6,88.4
+80,Hudson,6082,BelovED Community Charter,Administrators,88.9,86.6
+80,Hudson,6082,BelovED Community Charter,Teachers,71.9,88.4
+80,Camden,6086,Hope Community Charter School,Administrators,33.3,86.6
+80,Camden,6086,Hope Community Charter School,Teachers,64.7,88.4
+80,Cumberland,6089,Compass Academy Charter School,Administrators,100.0,86.6
+80,Cumberland,6089,Compass Academy Charter School,Teachers,68.4,88.4
+80,Hudson,6093,Jersey City Global Charter School,Administrators,66.7,86.6
+80,Hudson,6093,Jersey City Global Charter School,Teachers,33.3,88.4
+80,Essex,6094,Phillip's Academy Charter School,Administrators,100.0,86.6
+80,Essex,6094,Phillip's Academy Charter School,Teachers,82.1,88.4
+80,Passaic,6096,Paterson Arts and Science Charter School,Administrators,0.0,86.6
+80,Passaic,6096,Paterson Arts and Science Charter School,Teachers,73.9,88.4
+80,Essex,6099,Link Community Charter School,Administrators,33.3,86.6
+80,Essex,6099,Link Community Charter School,Teachers,62.5,88.4
+80,Cumberland,6100,Bridgeton Public Charter School,Administrators,100.0,86.6
+80,Cumberland,6100,Bridgeton Public Charter School,Teachers,45.5,88.4
+80,Union,6101,College Achieve Central Charter School,Administrators,70.0,86.6
+80,Union,6101,College Achieve Central Charter School,Teachers,63.8,88.4
+80,Union,6102,Cresthaven Academy Charter School,Administrators,0.0,86.6
+80,Union,6102,Cresthaven Academy Charter School,Teachers,62.2,88.4
+80,Hudson,6103,Empowerment Academy Charter School,Administrators,75.0,86.6
+80,Hudson,6103,Empowerment Academy Charter School,Teachers,60.8,88.4
+80,Atlantic,6104,Principle Academy Charter School,Administrators,100.0,86.6
+80,Atlantic,6104,Principle Academy Charter School,Teachers,67.6,88.4
+80,Hudson,6105,Hudson Arts and Science Charter School,Administrators,100.0,86.6
+80,Hudson,6105,Hudson Arts and Science Charter School,Teachers,72.2,88.4
+80,Passaic,6106,Philip's Academy Charter School of Paterson,Administrators,33.3,86.6
+80,Passaic,6106,Philip's Academy Charter School of Paterson,Teachers,67.7,88.4
+80,Camden,6107,Camden's Promise Charter School,Administrators,100.0,86.6
+80,Camden,6107,Camden's Promise Charter School,Teachers,88.8,88.4
+80,Essex,6109,LEAD Charter School,Administrators,33.3,86.6
+80,Essex,6109,LEAD Charter School,Teachers,27.3,88.4
+80,Essex,6110,Achieve Community Charter School,Administrators,100.0,86.6
+80,Essex,6110,Achieve Community Charter School,Teachers,52.2,88.4
+80,Mercer,6183,Trenton Stem-to-Civics Charter School,Administrators,75.0,86.6
+80,Mercer,6183,Trenton Stem-to-Civics Charter School,Teachers,57.1,88.4
+80,Passaic,6230,Classical Academy Charter School of Clifton,Administrators,100.0,86.6
+80,Passaic,6230,Classical Academy Charter School of Clifton,Teachers,92.9,88.4
+80,Camden,6240,Freedom Prep Charter School,Administrators,83.3,86.6
+80,Camden,6240,Freedom Prep Charter School,Teachers,44.9,88.4
+80,Essex,6320,Discovery Charter School,Administrators,100.0,86.6
+80,Essex,6320,Discovery Charter School,Teachers,71.4,88.4
+80,Essex,6410,East Orange Community Charter School,Administrators,57.1,86.6
+80,Essex,6410,East Orange Community Charter School,Teachers,3.1,88.4
+80,Hudson,6420,Elysian Charter School,Administrators,100.0,86.6
+80,Hudson,6420,Elysian Charter School,Teachers,96.2,88.4
+80,Bergen,6430,Englewood on the Palisades Charter School,Administrators,0.0,86.6
+80,Bergen,6430,Englewood on the Palisades Charter School,Teachers,91.3,88.4
+80,Middlesex,6635,Greater Brunswick Charter School,Administrators,100.0,86.6
+80,Middlesex,6635,Greater Brunswick Charter School,Teachers,69.4,88.4
+80,Essex,6665,Gray Charter School,Administrators,66.7,86.6
+80,Essex,6665,Gray Charter School,Teachers,58.8,88.4
+80,Hudson,6720,Hoboken Charter School District,Administrators,100.0,86.6
+80,Hudson,6720,Hoboken Charter School District,Teachers,86.2,88.4
+80,Monmouth,6740,Hope Academy Charter School,Administrators,75.0,86.6
+80,Monmouth,6740,Hope Academy Charter School,Teachers,87.5,88.4
+80,Mercer,6810,International Charter School of Trenton,Administrators,100.0,86.6
+80,Mercer,6810,International Charter School of Trenton,Teachers,63.6,88.4
+80,Hudson,6910,Jersey City Community Charter School,Administrators,75.0,86.6
+80,Hudson,6910,Jersey City Community Charter School,Teachers,75.0,88.4
+80,Hudson,6915,Jersey City Golden Door Charter School,Administrators,100.0,86.6
+80,Hudson,6915,Jersey City Golden Door Charter School,Teachers,82.9,88.4
+80,Camden,7109,LEAP Academy University Charter School,Administrators,20.0,86.6
+80,Camden,7109,LEAP Academy University Charter School,Teachers,79.4,88.4
+80,Hudson,7115,The Learning Community Charter School,Administrators,100.0,86.6
+80,Hudson,7115,The Learning Community Charter School,Teachers,84.4,88.4
+80,Essex,7210,Marion P. Thomas Charter School,Administrators,63.6,86.6
+80,Essex,7210,Marion P. Thomas Charter School,Teachers,36.6,88.4
+80,Essex,7290,New Horizons Community Charter School,Administrators,100.0,86.6
+80,Essex,7290,New Horizons Community Charter School,Teachers,60.6,88.4
+80,Essex,7320,North Star Academy Charter School,Administrators,62.5,86.6
+80,Essex,7320,North Star Academy Charter School,Teachers,65.8,88.4
+80,Essex,7325,TEAM Academy Charter School,Administrators,N,86.6
+80,Essex,7325,TEAM Academy Charter School,Teachers,67.5,88.4
+80,Atlantic,7410,Chartertech High School for the Performing Arts,Administrators,100.0,86.6
+80,Atlantic,7410,Chartertech High School for the Performing Arts,Teachers,86.0,88.4
+80,Mercer,7500,Pace Charter School of Hamilton,Administrators,100.0,86.6
+80,Mercer,7500,Pace Charter School of Hamilton,Teachers,88.9,88.4
+80,Passaic,7503,Paterson Charter School for Science and Technology,Administrators,90.9,86.6
+80,Passaic,7503,Paterson Charter School for Science and Technology,Teachers,72.5,88.4
+80,Mercer,7540,Princeton Charter School,Administrators,100.0,86.6
+80,Mercer,7540,Princeton Charter School,Teachers,82.9,88.4
+80,Union,7600,The Queen City Academy Charter School District,Administrators,50.0,86.6
+80,Union,7600,The Queen City Academy Charter School District,Teachers,45.0,88.4
+80,Monmouth,7720,Red Bank Charter School,Administrators,100.0,86.6
+80,Monmouth,7720,Red Bank Charter School,Teachers,68.2,88.4
+80,Warren,7727,Ridge and Valley Charter School,Administrators,100.0,86.6
+80,Warren,7727,Ridge and Valley Charter School,Teachers,94.4,88.4
+80,Essex,7730,Robert Treat Academy Charter School,Administrators,75.0,86.6
+80,Essex,7730,Robert Treat Academy Charter School,Teachers,84.4,88.4
+80,Essex,7735,Maria L. Varisco-Rogers Charter School,Administrators,90.9,86.6
+80,Essex,7735,Maria L. Varisco-Rogers Charter School,Teachers,78.6,88.4
+80,Hudson,7830,Soaring Heights Charter School,Administrators,0.0,86.6
+80,Hudson,7830,Soaring Heights Charter School,Teachers,73.7,88.4
+80,Sussex,7850,Sussex County Technology Charter School,Administrators,100.0,86.6
+80,Sussex,7850,Sussex County Technology Charter School,Teachers,77.3,88.4
+80,Bergen,7890,Teaneck Community Charter School,Administrators,100.0,86.6
+80,Bergen,7890,Teaneck Community Charter School,Teachers,89.7,88.4
+80,Monmouth,7891,College Achieve Greater Asbury Park Charter School,Administrators,75.0,86.6
+80,Monmouth,7891,College Achieve Greater Asbury Park Charter School,Teachers,69.4,88.4
+80,Passaic,7892,College Achieve Paterson Charter School,Administrators,92.3,86.6
+80,Passaic,7892,College Achieve Paterson Charter School,Teachers,58.1,88.4
+80,Ocean,7893,Ocean Academy Charter School,Administrators,100.0,86.6
+80,Ocean,7893,Ocean Academy Charter School,Teachers,93.8,88.4
+80,Mercer,7895,Achievers Early College Prep Charter School,Administrators,20.0,86.6
+80,Mercer,7895,Achievers Early College Prep Charter School,Teachers,33.3,88.4
+80,Middlesex,7896,Middlesex County STEM Charter School,Administrators,100.0,86.6
+80,Middlesex,7896,Middlesex County STEM Charter School,Teachers,50.0,88.4
+80,Salem,7897,Creativity CoLaboratory Charter School,Administrators,N,86.6
+80,Salem,7897,Creativity CoLaboratory Charter School,Teachers,81.3,88.4
+80,Union,8010,Union County TEAMS Charter School-High School/College LA,Administrators,100.0,86.6
+80,Union,8010,Union County TEAMS Charter School-High School/College LA,Teachers,42.9,88.4
+80,Morris,8050,Unity Charter School,Administrators,80.0,86.6
+80,Morris,8050,Unity Charter School,Teachers,60.7,88.4
+80,Hudson,8060,University Academy Charter High School,Administrators,66.7,86.6
+80,Hudson,8060,University Academy Charter High School,Teachers,71.4,88.4
+80,Mercer,8140,The Village Charter School,Administrators,75.0,86.6
+80,Mercer,8140,The Village Charter School,Teachers,75.8,88.4
+State,State,State,State,Administrators,,86.6
+State,State,State,State,Teachers,,88.4
