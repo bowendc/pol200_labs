@@ -1,0 +1,52 @@
+State,Total Gas Tax,belief,gastax,fips
+Alabama,$0.3100,51,0.31,1
+Alaska,$0.0895,55,0.08,2
+Arizona,$0.1900,59,0.19,4
+Arkansas,$0.2500,49,0.25,5
+California,$0.7092,65,0.7,6
+Colorado,$0.2918,60,0.29,8
+Connecticut,$0.2500,63,0.25,9
+Delaware,$0.2300,59,0.23,10
+Florida,$0.3940,58,0.39,12
+Georgia,$0.3385,55,0.33,13
+Hawaii,$0.1850,65,0.18,15
+Idaho,$0.3300,55,0.33,16
+Illinois,$0.6640,61,0.66,17
+Indiana,$0.5450,52,0.54,18
+Iowa,$0.3000,56,0.3,19
+Kansas,$0.2504,53,0.25,20
+Kentucky,$0.2640,51,0.26,21
+Louisiana,$0.2093,49,0.2,22
+Maine,$0.3140,58,0.31,23
+Maryland,$0.4619,66,0.46,24
+Massachusetts,$0.2747,66,0.27,25
+Michigan,$0.4820,59,0.48,26
+Minnesota,$0.3190,60,0.31,27
+Mississippi,$0.2140,50,0.21,28
+Missouri,$0.2999,54,0.29,29
+Montana,$0.3375,53,0.33,30
+Nebraska,$0.3270,52,0.32,31
+Nevada,$0.2381,59,0.23,32
+New Hampshire,$0.2383,61,0.23,33
+New Jersey,$0.4495,66,0.44,34
+New Mexico,$0.1888,59,0.18,35
+New York,$0.2487,64,0.24,36
+North Carolina,$0.4055,58,0.4,37
+North Dakota,$0.2303,45,0.23,38
+Ohio,$0.3850,56,0.38,39
+Oklahoma,$0.2000,52,0.2,40
+Oregon,$0.4000,62,0.4,41
+Pennsylvania,$0.5870,58,0.58,42
+Rhode Island,$0.4112,62,0.41,44
+South Carolina,$0.2875,54,0.28,45
+South Dakota,$0.3000,52,0.3,46
+Tennessee,$0.2740,53,0.27,47
+Texas,$0.2000,57,0.2,48
+Utah,$0.3915,54,0.39,49
+Vermont,$0.3139,62,0.31,50
+Virginia,$0.4160,62,0.41,51
+Washington,$0.5904,63,0.59,53
+West Virginia,$0.3570,46,0.35,54
+Wisconsin,$0.3290,57,0.32,55
+Wyoming,$0.2400,45,0.24,56
+District of Columbia,$0.3530,NA,0.35,11
